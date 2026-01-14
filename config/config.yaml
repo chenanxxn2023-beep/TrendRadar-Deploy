@@ -112,7 +112,7 @@ storage:
     sqlite: true
     txt: false
     html: true
-    json: true   # <--- 确保加上这行
+    json: true
   local:
     data_dir: "output"
 
