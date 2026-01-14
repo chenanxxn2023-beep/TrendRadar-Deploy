@@ -46,7 +46,6 @@ jobs:
 
       - name: Run crawler
         env:
-          # 您的 Secrets 环境变量
           FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
           BARK_URL: ${{ secrets.BARK_URL }}
           AI_ANALYSIS_ENABLED: ${{ secrets.AI_ANALYSIS_ENABLED }}
@@ -56,64 +55,82 @@ jobs:
           GITHUB_ACTIONS: true
         run: python -m trendradar
 
-      # 👇👇👇 【核心修改】新增：强制将 SQLite 数据库转为 JSON 👇👇👇
-      - name: Export DB to JSON
+      # 👇👇👇 【升级版】既转JSON，又自动清理旧文件 👇👇👇
+      - name: Export DB to JSON & Clean Old Files
         if: success()
         run: |
-          cat <<EOF > export_json.py
+          cat <<EOF > export_and_clean.py
           import sqlite3
           import json
           import glob
           import os
           
+          # ===========================
+          # 1. 清理旧文件 (只保留最近7个)
+          # ===========================
           try:
-            # 1. 找到 output/news/ 下最新的 db 文件
-            list_of_files = glob.glob('output/news/*.db')
-            if not list_of_files:
-                print("⚠️ No DB files found, skipping export.")
-                exit(0)
-            
-            latest_file = max(list_of_files, key=os.path.getctime)
-            print(f"📖 Reading Database: {latest_file}")
-            
-            conn = sqlite3.connect(latest_file)
-            cursor = conn.cursor()
-            
-            # 2. 获取所有表的数据
-            cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
-            tables = [t[0] for t in cursor.fetchall()]
-            
-            final_data = {}
-            
-            for table in tables:
-                print(f"   Processing table: {table}")
-                cursor.execute(f"SELECT * FROM {table}")
-                cols = [description[0] for description in cursor.description]
-                rows = cursor.fetchall()
-                # 转为字典列表
-                final_data[table] = [dict(zip(cols, row)) for row in rows]
-            
-            # 3. 写入 output/daily_hot_news.json
-            output_file = 'output/daily_hot_news.json'
-            with open(output_file, 'w', encoding='utf-8') as f:
-                json.dump(final_data, f, ensure_ascii=False, indent=2)
-            
-            print(f"✅ Successfully exported JSON to: {output_file}")
-            
+              # 获取所有 db 文件并按文件名排序 (日期文件名可以直接排序)
+              db_files = sorted(glob.glob('output/news/*.db'))
+              
+              # 如果超过 7 个，删除旧的
+              KEEP_DAYS = 7
+              if len(db_files) > KEEP_DAYS:
+                  files_to_delete = db_files[:-KEEP_DAYS] # 取出除了最后7个之外的所有文件
+                  for f in files_to_delete:
+                      os.remove(f)
+                      print(f"🗑️ Cleanup: Deleted old database {f}")
+              else:
+                  print("✅ Storage is clean (within 7 days).")
+                  
           except Exception as e:
-            print(f"❌ Error exporting JSON: {e}")
-            exit(1)
+              print(f"⚠️ Warning during cleanup: {e}")
+          
+          # ===========================
+          # 2. 导出最新的 JSON
+          # ===========================
+          try:
+              # 重新获取文件列表（因为刚才可能删除了）
+              list_of_files = glob.glob('output/news/*.db')
+              if not list_of_files:
+                  print("⚠️ No DB files found, skipping export.")
+                  exit(0)
+              
+              latest_file = max(list_of_files, key=os.path.getctime)
+              print(f"📖 Reading Database: {latest_file}")
+              
+              conn = sqlite3.connect(latest_file)
+              cursor = conn.cursor()
+              
+              cursor.execute("SELECT name FROM sqlite_master WHERE type='table';")
+              tables = [t[0] for t in cursor.fetchall()]
+              
+              final_data = {}
+              
+              for table in tables:
+                  cursor.execute(f"SELECT * FROM {table}")
+                  cols = [description[0] for description in cursor.description]
+                  rows = cursor.fetchall()
+                  final_data[table] = [dict(zip(cols, row)) for row in rows]
+              
+              output_file = 'output/daily_hot_news.json'
+              with open(output_file, 'w', encoding='utf-8') as f:
+                  json.dump(final_data, f, ensure_ascii=False, indent=2)
+              
+              print(f"✅ Successfully exported JSON to: {output_file}")
+              
+          except Exception as e:
+              print(f"❌ Error exporting JSON: {e}")
+              exit(1)
           EOF
           
-          # 运行转换脚本
-          python export_json.py
+          python export_and_clean.py
 
-      # 提交并保存结果
       - name: Commit and push changes
         if: success()
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add output/
-          git commit -m "Auto update data (with JSON)" -a || exit 0
+          # 使用 git add -A 会自动处理新增和删除的文件
+          git add -A output/
+          git commit -m "Auto update data (Cleaned old history)" -a || exit 0
           git push
