@@ -120,7 +120,7 @@ storage:
 # 7. AI 分析
 # ===============================================================
 ai_analysis:
-  enabled: true
+  enabled: false
   provider: "deepseek"
   api_key: ""
   model: "deepseek-chat"
