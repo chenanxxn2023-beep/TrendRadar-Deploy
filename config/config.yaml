@@ -112,9 +112,9 @@ storage:
     sqlite: true
     txt: false
     html: true
+    json: true   # <--- 必须加这一行！这是给前端喂饭的勺子
   local:
     data_dir: "output"
-    retention_days: 0
 
 # ===============================================================
 # 7. AI 分析
