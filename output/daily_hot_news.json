@@ -4,73 +4,73 @@
       "id": "toutiao",
       "name": "今日头条",
       "is_active": 1,
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": "baidu",
       "name": "百度热搜",
       "is_active": 1,
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": "thepaper",
       "name": "澎湃新闻",
       "is_active": 1,
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": "ifeng",
       "name": "凤凰网",
       "is_active": 1,
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": "zaobao",
       "name": "联合早报",
       "is_active": 1,
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": "cankaoxiaoxi",
       "name": "参考消息",
       "is_active": 1,
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": "weibo",
       "name": "微博",
       "is_active": 1,
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": "douyin",
       "name": "抖音",
       "is_active": 1,
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": "bilibili-hot-search",
       "name": "bilibili 热搜",
       "is_active": 1,
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": "zhihu",
       "name": "知乎",
       "is_active": 1,
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": "tieba",
       "name": "贴吧",
       "is_active": 1,
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": "chongbuluo",
       "name": "虫部落",
       "is_active": 1,
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     }
   ],
   "news_items": [
@@ -1287,14 +1287,14 @@
       "id": 94,
       "title": "朝鲜建国78年来首次修改国旗比例 金正恩重塑国家认同",
       "platform_id": "zaobao",
-      "rank": 21,
+      "rank": 29,
       "url": "https://www.zaochenbao.com/news/politics/202611/1685660.html",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 95,
@@ -1326,14 +1326,14 @@
       "id": 97,
       "title": "特稿：台北市长选战胶着 封关民调分歧凸显预测难题",
       "platform_id": "zaobao",
-      "rank": 23,
+      "rank": 30,
       "url": "https://www.zaochenbao.com/news/taiwan/202611/1685657.html",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 98,
@@ -2639,14 +2639,14 @@
       "id": 198,
       "title": "我家门口新开了一朵茉莉",
       "platform_id": "douyin",
-      "rank": 22,
+      "rank": 18,
       "url": "https://www.douyin.com/hot/2748536",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 199,
@@ -2704,14 +2704,14 @@
       "id": 203,
       "title": "拆正缘星座盲盒",
       "platform_id": "douyin",
-      "rank": 19,
+      "rank": 21,
       "url": "https://www.douyin.com/hot/2749011",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 204,
@@ -2838,10 +2838,10 @@
       "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E8%B0%88%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 214,
@@ -2860,14 +2860,14 @@
       "id": 215,
       "title": "食贫道闯关东吃饭故事上新",
       "platform_id": "bilibili-hot-search",
-      "rank": 15,
+      "rank": 18,
       "url": "https://search.bilibili.com/all?keyword=%E9%A3%9F%E8%B4%AB%E9%81%93%E9%97%AF%E5%85%B3%E4%B8%9C%E5%90%83%E9%A5%AD%E6%95%85%E4%BA%8B%E4%B8%8A%E6%96%B0",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 216,
@@ -2912,14 +2912,14 @@
       "id": 219,
       "title": "复联全家福vs灭霸全家福",
       "platform_id": "bilibili-hot-search",
-      "rank": 7,
+      "rank": 20,
       "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E8%81%94%E5%85%A8%E5%AE%B6%E7%A6%8Fvs%E7%81%AD%E9%9C%B8%E5%85%A8%E5%AE%B6%E7%A6%8F",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "06-27",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 06:27:05"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 220,
@@ -2951,14 +2951,14 @@
       "id": 222,
       "title": "高燃BLG一穿四夺冠短片",
       "platform_id": "bilibili-hot-search",
-      "rank": 10,
+      "rank": 25,
       "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E7%87%83BLG%E4%B8%80%E7%A9%BF%E5%9B%9B%E5%A4%BA%E5%86%A0%E7%9F%AD%E7%89%87",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "06-27",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 06:27:05"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 223,
@@ -3016,14 +3016,14 @@
       "id": 227,
       "title": "根本没有这样的长尾夹",
       "platform_id": "bilibili-hot-search",
-      "rank": 17,
+      "rank": 12,
       "url": "https://search.bilibili.com/all?keyword=%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E8%BF%99%E6%A0%B7%E7%9A%84%E9%95%BF%E5%B0%BE%E5%A4%B9",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 228,
@@ -3215,10 +3215,10 @@
       "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%BE%84%E6%81%AD%E5%96%9CBLG%E5%A4%BA%E5%86%A0",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 243,
@@ -3484,261 +3484,261 @@
       "id": 263,
       "title": "《麦穗与羊》原稿传递",
       "platform_id": "tieba",
-      "rank": 1,
+      "rank": 10,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E3%80%8A%E9%BA%A6%E7%A9%97%E4%B8%8E%E7%BE%8A%E3%80%8B%E5%8E%9F%E7%A8%BF%E4%BC%A0%E9%80%92&topic_id=28369865",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 264,
       "title": "写给我的17岁",
       "platform_id": "tieba",
-      "rank": 2,
+      "rank": 4,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%86%99%E7%BB%99%E6%88%91%E7%9A%8417%E5%B2%81&topic_id=28369877",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 265,
       "title": "左手直播间谈皮肤选择",
       "platform_id": "tieba",
-      "rank": 7,
+      "rank": 13,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%B7%A6%E6%89%8B%E7%9B%B4%E6%92%AD%E9%97%B4%E8%B0%88%E7%9A%AE%E8%82%A4%E9%80%89%E6%8B%A9&topic_id=28369880",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 266,
       "title": "LPL夺冠Uzi沉默引猜疑",
       "platform_id": "tieba",
-      "rank": 8,
+      "rank": 14,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=LPL%E5%A4%BA%E5%86%A0Uzi%E6%B2%89%E9%BB%98%E5%BC%95%E7%8C%9C%E7%96%91&topic_id=28369854",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 267,
       "title": "陈睿现身BLG庆功宴",
       "platform_id": "tieba",
-      "rank": 9,
+      "rank": 15,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E9%99%88%E7%9D%BF%E7%8E%B0%E8%BA%ABBLG%E5%BA%86%E5%8A%9F%E5%AE%B4&topic_id=28369856",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 268,
       "title": "提欧奥特曼女二演员中田乃爱去世",
       "platform_id": "tieba",
-      "rank": 10,
+      "rank": 16,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%8F%90%E6%AC%A7%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A5%B3%E4%BA%8C%E6%BC%94%E5%91%98%E4%B8%AD%E7%94%B0%E4%B9%83%E7%88%B1%E5%8E%BB%E4%B8%96&topic_id=28369867",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 269,
       "title": "亚马尔种族歧视内容系伪造",
       "platform_id": "tieba",
-      "rank": 11,
+      "rank": 17,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E4%BA%9A%E9%A9%AC%E5%B0%94%E7%A7%8D%E6%97%8F%E6%AD%A7%E8%A7%86%E5%86%85%E5%AE%B9%E7%B3%BB%E4%BC%AA%E9%80%A0&topic_id=28369881",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 270,
       "title": "BLG冠军皮投票格温直追武器",
       "platform_id": "tieba",
-      "rank": 12,
+      "rank": 18,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=BLG%E5%86%A0%E5%86%9B%E7%9A%AE%E6%8A%95%E7%A5%A8%E6%A0%BC%E6%B8%A9%E7%9B%B4%E8%BF%BD%E6%AD%A6%E5%99%A8&topic_id=28369853",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 271,
       "title": "左手爆料Faker私下祝他夺冠",
       "platform_id": "tieba",
-      "rank": 13,
+      "rank": 19,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%B7%A6%E6%89%8B%E7%88%86%E6%96%99Faker%E7%A7%81%E4%B8%8B%E7%A5%9D%E4%BB%96%E5%A4%BA%E5%86%A0&topic_id=28369855",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 272,
       "title": "吧友养大肥鱼被绘圈对象断崖分手",
       "platform_id": "tieba",
-      "rank": 14,
+      "rank": 20,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E5%85%BB%E5%A4%A7%E8%82%A5%E9%B1%BC%E8%A2%AB%E7%BB%98%E5%9C%88%E5%AF%B9%E8%B1%A1%E6%96%AD%E5%B4%96%E5%88%86%E6%89%8B&topic_id=28369850",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 273,
       "title": "网传DK收购告吹选手全变自由人",
       "platform_id": "tieba",
-      "rank": 15,
+      "rank": 21,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BD%91%E4%BC%A0DK%E6%94%B6%E8%B4%AD%E5%91%8A%E5%90%B9%E9%80%89%E6%89%8B%E5%85%A8%E5%8F%98%E8%87%AA%E7%94%B1%E4%BA%BA&topic_id=28369852",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 274,
       "title": "孙吧集体追忆逝去的爱",
       "platform_id": "tieba",
-      "rank": 16,
+      "rank": 22,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%AD%99%E5%90%A7%E9%9B%86%E4%BD%93%E8%BF%BD%E5%BF%86%E9%80%9D%E5%8E%BB%E7%9A%84%E7%88%B1&topic_id=28369846",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 275,
       "title": "BLG战胜GEN夺得全球总决赛冠军",
       "platform_id": "tieba",
-      "rank": 17,
+      "rank": 23,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=BLG%E6%88%98%E8%83%9CGEN%E5%A4%BA%E5%BE%97%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%E5%86%A0%E5%86%9B&topic_id=28369832",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 276,
       "title": "BLG夺冠吧友预测冠军皮肤",
       "platform_id": "tieba",
-      "rank": 18,
+      "rank": 24,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=BLG%E5%A4%BA%E5%86%A0%E5%90%A7%E5%8F%8B%E9%A2%84%E6%B5%8B%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4&topic_id=28369835",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 277,
       "title": "抗吧老哥结婚遇BLG夺冠赢麻了",
       "platform_id": "tieba",
-      "rank": 19,
+      "rank": 25,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%8A%97%E5%90%A7%E8%80%81%E5%93%A5%E7%BB%93%E5%A9%9A%E9%81%87BLG%E5%A4%BA%E5%86%A0%E8%B5%A2%E9%BA%BB%E4%BA%86&topic_id=28369839",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 278,
       "title": "抗吧抽奖出现人传人现象",
       "platform_id": "tieba",
-      "rank": 20,
+      "rank": 26,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%8A%97%E5%90%A7%E6%8A%BD%E5%A5%96%E5%87%BA%E7%8E%B0%E4%BA%BA%E4%BC%A0%E4%BA%BA%E7%8E%B0%E8%B1%A1&topic_id=28369616",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 279,
       "title": "哈利波特魔法觉醒宣布停服",
       "platform_id": "tieba",
-      "rank": 21,
+      "rank": 27,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%AD%94%E6%B3%95%E8%A7%89%E9%86%92%E5%AE%A3%E5%B8%83%E5%81%9C%E6%9C%8D&topic_id=28369873",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 280,
       "title": "Bin成为LPL首位大满贯上单选手",
       "platform_id": "tieba",
-      "rank": 22,
+      "rank": 28,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Bin%E6%88%90%E4%B8%BALPL%E9%A6%96%E4%BD%8D%E5%A4%A7%E6%BB%A1%E8%B4%AF%E4%B8%8A%E5%8D%95%E9%80%89%E6%89%8B&topic_id=28369834",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 281,
       "title": "TheShy唱衰BLG惨遭回旋镖",
       "platform_id": "tieba",
-      "rank": 23,
+      "rank": 29,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=TheShy%E5%94%B1%E8%A1%B0BLG%E6%83%A8%E9%81%AD%E5%9B%9E%E6%97%8B%E9%95%96&topic_id=28369837",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 282,
       "title": "Knight获得S16全球总决赛FMVP",
       "platform_id": "tieba",
-      "rank": 24,
+      "rank": 30,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=Knight%E8%8E%B7%E5%BE%97S16%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9BFMVP&topic_id=28369833",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 283,
@@ -3878,114 +3878,114 @@
       "url": "https://www.chongbuluo.com/thread-25170-1-1.html",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 294,
       "title": "兄弟姐妹们，你们认为现在赚钱难吗？",
       "platform_id": "chongbuluo",
-      "rank": 2,
+      "rank": 3,
       "url": "https://www.chongbuluo.com/thread-25283-1-1.html",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 295,
       "title": "Workbuddy三大金刚电子书",
       "platform_id": "chongbuluo",
-      "rank": 3,
+      "rank": 4,
       "url": "https://www.chongbuluo.com/thread-25255-1-1.html",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 296,
       "title": "10万个ppt模版 全部免费下载 目前最全的了",
       "platform_id": "chongbuluo",
-      "rank": 4,
+      "rank": 5,
       "url": "https://www.chongbuluo.com/thread-25108-1-1.html",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 297,
       "title": "看看你注册多久了，我5年了",
       "platform_id": "chongbuluo",
-      "rank": 5,
+      "rank": 6,
       "url": "https://www.chongbuluo.com/thread-25306-1-1.html",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 298,
       "title": "兄弟们，去看这本书。",
       "platform_id": "chongbuluo",
-      "rank": 6,
+      "rank": 7,
       "url": "https://www.chongbuluo.com/thread-25160-1-1.html",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 299,
       "title": "GitHub 最近很火的电子书，《高性价比人生指南-用最少得钱、时间和精力换回寿命、金钱和自由》",
       "platform_id": "chongbuluo",
-      "rank": 7,
+      "rank": 8,
       "url": "https://www.chongbuluo.com/thread-25215-1-1.html",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 300,
       "title": "我不敢太高兴，可我真的很想说说这个28岁",
       "platform_id": "chongbuluo",
-      "rank": 8,
+      "rank": 9,
       "url": "https://www.chongbuluo.com/thread-25202-1-1.html",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 301,
       "title": "建议大家少在大平台上发帖或评论",
       "platform_id": "chongbuluo",
-      "rank": 9,
+      "rank": 2,
       "url": "https://www.chongbuluo.com/thread-25178-1-1.html",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 302,
@@ -3995,10 +3995,10 @@
       "url": "https://www.chongbuluo.com/thread-25146-1-1.html",
       "mobile_url": "",
       "first_crawl_time": "06-27",
-      "last_crawl_time": "12-43",
-      "crawl_count": 2,
+      "last_crawl_time": "22-48",
+      "crawl_count": 3,
       "created_at": "2026-11-17 06:27:05",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 303,
@@ -4134,14 +4134,14 @@
       "id": 313,
       "title": "《慌啥子嘛》为什么让成年人破防",
       "platform_id": "toutiao",
-      "rank": 12,
+      "rank": 17,
       "url": "https://www.toutiao.com/trending/7708448654189642250/",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 314,
@@ -4628,14 +4628,14 @@
       "id": 351,
       "title": "千万粉丝网红发文：被小13岁男友求婚",
       "platform_id": "baidu",
-      "rank": 22,
+      "rank": 30,
       "url": "https://www.baidu.com/s?wd=%E5%8D%83%E4%B8%87%E7%B2%89%E4%B8%9D%E7%BD%91%E7%BA%A2%E5%8F%91%E6%96%87%EF%BC%9A%E8%A2%AB%E5%B0%8F13%E5%B2%81%E7%94%B7%E5%8F%8B%E6%B1%82%E5%A9%9A",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 352,
@@ -4693,14 +4693,14 @@
       "id": 356,
       "title": "女子备孕10年未孕竟因子宫里长骨头",
       "platform_id": "baidu",
-      "rank": 27,
+      "rank": 17,
       "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E5%A4%87%E5%AD%9510%E5%B9%B4%E6%9C%AA%E5%AD%95%E7%AB%9F%E5%9B%A0%E5%AD%90%E5%AE%AB%E9%87%8C%E9%95%BF%E9%AA%A8%E5%A4%B4",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 357,
@@ -4797,14 +4797,14 @@
       "id": 364,
       "title": "圆桌｜中俄美元首历史性首次会晤在即，三国权威学者谈大国关系新契机",
       "platform_id": "thepaper",
-      "rank": 8,
+      "rank": 1,
       "url": "https://www.thepaper.cn/newsDetail_forward_34490498",
       "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34490498",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 365,
@@ -4823,27 +4823,27 @@
       "id": 366,
       "title": "网络招聘帖假招聘、真卖课？记者实测被推荐先买课，12家单位均称是虚假招聘信息",
       "platform_id": "thepaper",
-      "rank": 12,
+      "rank": 3,
       "url": "https://www.thepaper.cn/newsDetail_forward_34490252",
       "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34490252",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 367,
       "title": "释新闻｜拿顿巴斯换北约成员资格，乌克兰面临一道两难选择题",
       "platform_id": "thepaper",
-      "rank": 14,
+      "rank": 5,
       "url": "https://www.thepaper.cn/newsDetail_forward_34490414",
       "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34490414",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 368,
@@ -5031,14 +5031,14 @@
       "id": 382,
       "title": "港媒：台APEC代表施振荣赴深圳与会或获大陆礼遇",
       "platform_id": "zaobao",
-      "rank": 2,
+      "rank": 19,
       "url": "https://www.zaochenbao.com/news/taiwan/202611/1785683.html",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 383,
@@ -5070,27 +5070,27 @@
       "id": 385,
       "title": "台外交次长：140亿美元对台军售何时获批取决于特朗普",
       "platform_id": "zaobao",
-      "rank": 5,
+      "rank": 20,
       "url": "https://www.zaochenbao.com/news/taiwan/202611/1785680.html",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 386,
       "title": "内忧外患下展开亚洲行 特朗普会习近平面临新考验",
       "platform_id": "zaobao",
-      "rank": 6,
+      "rank": 21,
       "url": "https://www.zaochenbao.com/news/politics/202611/1785679.html",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 387,
@@ -5187,131 +5187,131 @@
       "id": 394,
       "title": "美国收紧AI晶片出口管制 防中国借海外数据中心获取算力",
       "platform_id": "zaobao",
-      "rank": 14,
+      "rank": 22,
       "url": "https://www.zaochenbao.com/news/politics/202611/1785670.html",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 395,
       "title": "评论：中国“富豪税”落地 岸外信托持本地豪宅或须缴税影响买气",
       "platform_id": "zaobao",
-      "rank": 15,
+      "rank": 23,
       "url": "https://www.zaochenbao.com/news/opinion/202611/1785667.html",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 396,
       "title": "中美俄元首周四会晤 中方促共同合作应对全球挑战",
       "platform_id": "zaobao",
-      "rank": 16,
+      "rank": 24,
       "url": "https://www.zaochenbao.com/news/politics/202611/1785666.html",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 397,
       "title": "缪宗翰：饭圈掀起台湾选战新模式",
       "platform_id": "zaobao",
-      "rank": 17,
+      "rank": 25,
       "url": "https://www.zaochenbao.com/news/taiwan/202611/1785665.html",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 398,
       "title": "传黄仁勋拟回巢 美财长：英伟达须对外选帅彻底重整",
       "platform_id": "zaobao",
-      "rank": 18,
+      "rank": 26,
       "url": "https://www.zaochenbao.com/news/politics/202611/1785664.html",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 399,
       "title": "罗斯福号抵达中东 美军形成三航母部署",
       "platform_id": "zaobao",
-      "rank": 19,
+      "rank": 27,
       "url": "https://www.zaochenbao.com/news/politics/202611/1785663.html",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 400,
       "title": "美国索要三倍驻军费 日本拟砍半应对",
       "platform_id": "zaobao",
-      "rank": 20,
+      "rank": 28,
       "url": "https://www.zaochenbao.com/news/politics/202611/1785662.html",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 401,
       "title": "也门胡塞武装：控制曼德海峡的目标已经达成",
       "platform_id": "cankaoxiaoxi",
-      "rank": 1,
+      "rank": 28,
       "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/7dc2548d2c474a49a1d0427c50c3a14b.html",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 402,
       "title": "特朗普否认考虑撤换商务部长",
       "platform_id": "cankaoxiaoxi",
-      "rank": 2,
+      "rank": 29,
       "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/fdedd6c9e88e45eb9e43ca61fb2076af.html",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 403,
       "title": "法国极右翼领导人：若当选总统，将不再向乌克兰提供财政援助",
       "platform_id": "cankaoxiaoxi",
-      "rank": 3,
+      "rank": 30,
       "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/9c75a808909b4c0c94a39d2dad642a59.html",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 404,
@@ -5824,14 +5824,14 @@
       "id": 443,
       "title": "GEN官宣四人离队",
       "platform_id": "douyin",
-      "rank": 8,
+      "rank": 16,
       "url": "https://www.douyin.com/hot/2750153",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 444,
@@ -5854,23 +5854,23 @@
       "url": "https://www.douyin.com/hot/2749826",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 446,
       "title": "智利总统卡斯特抵达深圳",
       "platform_id": "douyin",
-      "rank": 15,
+      "rank": 23,
       "url": "https://www.douyin.com/hot/2750078",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 447,
@@ -5993,14 +5993,14 @@
       "id": 456,
       "title": "Bin冠军皮肤格温票数反超武器",
       "platform_id": "bilibili-hot-search",
-      "rank": 6,
+      "rank": 28,
       "url": "https://search.bilibili.com/all?keyword=Bin%E5%86%A0%E5%86%9B%E7%9A%AE%E8%82%A4%E6%A0%BC%E6%B8%A9%E7%A5%A8%E6%95%B0%E5%8F%8D%E8%B6%85%E6%AD%A6%E5%99%A8",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 457,
@@ -6058,14 +6058,14 @@
       "id": 461,
       "title": "非凡之爱演绎经典漫画父与子",
       "platform_id": "bilibili-hot-search",
-      "rank": 16,
+      "rank": 14,
       "url": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1%E6%BC%94%E7%BB%8E%E7%BB%8F%E5%85%B8%E6%BC%AB%E7%94%BB%E7%88%B6%E4%B8%8E%E5%AD%90",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 462,
@@ -6123,27 +6123,27 @@
       "id": 466,
       "title": "电影挽救计划为何口碑票房双爆",
       "platform_id": "bilibili-hot-search",
-      "rank": 25,
+      "rank": 19,
       "url": "https://search.bilibili.com/all?keyword=%E7%94%B5%E5%BD%B1%E6%8C%BD%E6%95%91%E8%AE%A1%E5%88%92%E4%B8%BA%E4%BD%95%E5%8F%A3%E7%A2%91%E7%A5%A8%E6%88%BF%E5%8F%8C%E7%88%86",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 467,
       "title": "天下足球回顾C罗国家队生涯",
       "platform_id": "bilibili-hot-search",
-      "rank": 26,
+      "rank": 15,
       "url": "https://search.bilibili.com/all?keyword=%E5%A4%A9%E4%B8%8B%E8%B6%B3%E7%90%83%E5%9B%9E%E9%A1%BEC%E7%BD%97%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%94%9F%E6%B6%AF",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 468,
@@ -6344,27 +6344,27 @@
       "id": 483,
       "title": "中汽协将对比亚迪、小米等 17 家重点车企开展供应商账款支付情况调研评估，哪些信息值得关注？",
       "platform_id": "zhihu",
-      "rank": 17,
+      "rank": 2,
       "url": "https://www.zhihu.com/question/2105956358176469828",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 484,
       "title": "校招进了一个大公司新成立的部门，只有自己一个人，且直接跟大领导汇报，求经验？",
       "platform_id": "zhihu",
-      "rank": 18,
+      "rank": 10,
       "url": "https://www.zhihu.com/question/2104002868328001728",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 485,
@@ -6396,67 +6396,3057 @@
       "id": 487,
       "title": "羊馍干吧挤满意难平的人",
       "platform_id": "tieba",
-      "rank": 3,
+      "rank": 2,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E7%BE%8A%E9%A6%8D%E5%B9%B2%E5%90%A7%E6%8C%A4%E6%BB%A1%E6%84%8F%E9%9A%BE%E5%B9%B3%E7%9A%84%E4%BA%BA&topic_id=28369884",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 488,
       "title": "蝙蝠侠真身实为007",
       "platform_id": "tieba",
-      "rank": 4,
+      "rank": 6,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E8%9D%99%E8%9D%A0%E4%BE%A0%E7%9C%9F%E8%BA%AB%E5%AE%9E%E4%B8%BA007&topic_id=28369886",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 489,
       "title": "抗吧史官记录Bin哥夺冠清算",
       "platform_id": "tieba",
-      "rank": 5,
+      "rank": 8,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E6%8A%97%E5%90%A7%E5%8F%B2%E5%AE%98%E8%AE%B0%E5%BD%95Bin%E5%93%A5%E5%A4%BA%E5%86%A0%E6%B8%85%E7%AE%97&topic_id=28369882",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
     },
     {
       "id": 490,
       "title": "DeepSeek限额吧友心态崩了",
       "platform_id": "tieba",
-      "rank": 6,
+      "rank": 9,
       "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=DeepSeek%E9%99%90%E9%A2%9D%E5%90%A7%E5%8F%8B%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86&topic_id=28369883",
       "mobile_url": "",
       "first_crawl_time": "12-43",
-      "last_crawl_time": "12-43",
-      "crawl_count": 1,
+      "last_crawl_time": "22-48",
+      "crawl_count": 2,
       "created_at": "2026-11-17 12:43:25",
-      "updated_at": "2026-11-17 12:43:25"
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 491,
+      "title": "深圳市民给APEC晚宴疯狂安利猪脚饭",
+      "platform_id": "toutiao",
+      "rank": 1,
+      "url": "https://www.toutiao.com/trending/7708571384561074203/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 492,
+      "title": "特朗普抵达菲律宾 现场响起熟悉的歌",
+      "platform_id": "toutiao",
+      "rank": 2,
+      "url": "https://www.toutiao.com/trending/7709069472107348022/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 493,
+      "title": "APEC工商领导人峰会今天聚焦哪些议题",
+      "platform_id": "toutiao",
+      "rank": 3,
+      "url": "https://www.toutiao.com/trending/7708221528491658793/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 494,
+      "title": "小米回应雷军APEC发言紧张",
+      "platform_id": "toutiao",
+      "rank": 4,
+      "url": "https://www.toutiao.com/trending/7709069286127910921/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 495,
+      "title": "甘肃两当县因慢生活出圈",
+      "platform_id": "toutiao",
+      "rank": 5,
+      "url": "https://www.toutiao.com/trending/7709028220163572275/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 496,
+      "title": "国足连追两球2-2战平巴林",
+      "platform_id": "toutiao",
+      "rank": 6,
+      "url": "https://www.toutiao.com/trending/7709140026294013503/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 497,
+      "title": "特朗普亚洲行团队名单：鲁比奥在列",
+      "platform_id": "toutiao",
+      "rank": 7,
+      "url": "https://www.toutiao.com/trending/7708629066374561818/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 498,
+      "title": "U19国足2-1战胜韩国 再夺熊猫杯冠军",
+      "platform_id": "toutiao",
+      "rank": 8,
+      "url": "https://www.toutiao.com/trending/7709132327925845530/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 499,
+      "title": "深圳以暖心服务迎接亚太宾客",
+      "platform_id": "toutiao",
+      "rank": 9,
+      "url": "https://www.toutiao.com/trending/7708734959909158954/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 500,
+      "title": "王传福试驾方程豹钛9竖大拇指",
+      "platform_id": "toutiao",
+      "rank": 10,
+      "url": "https://www.toutiao.com/trending/7709080222121951795/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 501,
+      "title": "小米辟谣汽车召回短信",
+      "platform_id": "toutiao",
+      "rank": 11,
+      "url": "https://www.toutiao.com/trending/7708441725144137782/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 502,
+      "title": "特朗普戴红领带开启亚洲行",
+      "platform_id": "toutiao",
+      "rank": 12,
+      "url": "https://www.toutiao.com/trending/7708275191583080502/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 503,
+      "title": "特朗普迟到唱主角戏 高市陪笑到脸僵",
+      "platform_id": "toutiao",
+      "rank": 13,
+      "url": "https://www.toutiao.com/trending/7708342866946539530/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 504,
+      "title": "董明珠回应格力坚持造芯",
+      "platform_id": "toutiao",
+      "rank": 14,
+      "url": "https://www.toutiao.com/trending/7709116236173509147/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 505,
+      "title": "李家超抵达深圳",
+      "platform_id": "toutiao",
+      "rank": 15,
+      "url": "https://www.toutiao.com/trending/7708624854602990118/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 506,
+      "title": "一场雪后河南有了自己的林海雪原",
+      "platform_id": "toutiao",
+      "rank": 16,
+      "url": "https://www.toutiao.com/trending/7709092563021545522/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 507,
+      "title": "马斯克确认将来中国",
+      "platform_id": "toutiao",
+      "rank": 18,
+      "url": "https://www.toutiao.com/trending/7708348640527859748/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 508,
+      "title": "九阳一天内从跌停附近被抬到涨停",
+      "platform_id": "toutiao",
+      "rank": 19,
+      "url": "https://www.toutiao.com/trending/7709082488148069929/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 509,
+      "title": "《伟大的长征》为何打动年轻人",
+      "platform_id": "toutiao",
+      "rank": 20,
+      "url": "https://www.toutiao.com/trending/7708932915261866534/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 510,
+      "title": "中方回应特朗普称或在华会见金正恩",
+      "platform_id": "toutiao",
+      "rank": 21,
+      "url": "https://www.toutiao.com/trending/7709037451200938025/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 511,
+      "title": "王传福：我赢你输的路子走不远",
+      "platform_id": "toutiao",
+      "rank": 22,
+      "url": "https://www.toutiao.com/trending/7708606530542698505/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 512,
+      "title": "A股平均股价12.43元",
+      "platform_id": "toutiao",
+      "rank": 23,
+      "url": "https://www.toutiao.com/trending/7709114264912625715/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 513,
+      "title": "老外们在深圳贴退热贴用筷子吃烧烤",
+      "platform_id": "toutiao",
+      "rank": 24,
+      "url": "https://www.toutiao.com/trending/7709072028028994074/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 514,
+      "title": "巴西7-0新加坡 维尼修斯12分钟3球",
+      "platform_id": "toutiao",
+      "rank": 25,
+      "url": "https://www.toutiao.com/trending/7709085202437784115/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 515,
+      "title": "美国封堵新马泰等国远程算力租赁通道",
+      "platform_id": "toutiao",
+      "rank": 26,
+      "url": "https://www.toutiao.com/trending/7709121423012269587/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 516,
+      "title": "深圳APEC主持人阵容拉满",
+      "platform_id": "toutiao",
+      "rank": 27,
+      "url": "https://www.toutiao.com/trending/7707948669395599396/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 517,
+      "title": "低价榴莲背后的亚太产业链重构",
+      "platform_id": "toutiao",
+      "rank": 28,
+      "url": "https://www.toutiao.com/trending/7709110527628168745/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 518,
+      "title": "浙江U15球员头部遭撞击失去意识",
+      "platform_id": "toutiao",
+      "rank": 29,
+      "url": "https://www.toutiao.com/trending/7709065498331496998/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 519,
+      "title": "董明珠：解决人类的问题企业才有价值",
+      "platform_id": "toutiao",
+      "rank": 30,
+      "url": "https://www.toutiao.com/trending/7709069519000273446/",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 520,
+      "title": "广东人放弃背心人字拖 白衬衫整起",
+      "platform_id": "baidu",
+      "rank": 1,
+      "url": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%94%BE%E5%BC%83%E8%83%8C%E5%BF%83%E4%BA%BA%E5%AD%97%E6%8B%96+%E7%99%BD%E8%A1%AC%E8%A1%AB%E6%95%B4%E8%B5%B7",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 521,
+      "title": "U19国足2比1韩国夺冠",
+      "platform_id": "baidu",
+      "rank": 2,
+      "url": "https://www.baidu.com/s?wd=U19%E5%9B%BD%E8%B6%B32%E6%AF%941%E9%9F%A9%E5%9B%BD%E5%A4%BA%E5%86%A0",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 522,
+      "title": "APEC工商领导人峰会聚焦哪些议题",
+      "platform_id": "baidu",
+      "rank": 3,
+      "url": "https://www.baidu.com/s?wd=APEC%E5%B7%A5%E5%95%86%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B3%B0%E4%BC%9A%E8%81%9A%E7%84%A6%E5%93%AA%E4%BA%9B%E8%AE%AE%E9%A2%98",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 523,
+      "title": "普京携强大阵容访问深圳",
+      "platform_id": "baidu",
+      "rank": 4,
+      "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%90%BA%E5%BC%BA%E5%A4%A7%E9%98%B5%E5%AE%B9%E8%AE%BF%E9%97%AE%E6%B7%B1%E5%9C%B3",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 524,
+      "title": "最差密码榜单公布 123456再登顶",
+      "platform_id": "baidu",
+      "rank": 5,
+      "url": "https://www.baidu.com/s?wd=%E6%9C%80%E5%B7%AE%E5%AF%86%E7%A0%81%E6%A6%9C%E5%8D%95%E5%85%AC%E5%B8%83+123456%E5%86%8D%E7%99%BB%E9%A1%B6",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 525,
+      "title": "国足2比2战平巴林",
+      "platform_id": "baidu",
+      "rank": 6,
+      "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E8%B6%B32%E6%AF%942%E6%88%98%E5%B9%B3%E5%B7%B4%E6%9E%97",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 526,
+      "title": "“希望我的祖国也能有一个深圳”",
+      "platform_id": "baidu",
+      "rank": 7,
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B8%8C%E6%9C%9B%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD%E4%B9%9F%E8%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E6%B7%B1%E5%9C%B3%E2%80%9D",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 527,
+      "title": "APEC灯光秀",
+      "platform_id": "baidu",
+      "rank": 8,
+      "url": "https://www.baidu.com/s?wd=APEC%E7%81%AF%E5%85%89%E7%A7%80",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 528,
+      "title": "三次东道主 这次有什么不一样",
+      "platform_id": "baidu",
+      "rank": 9,
+      "url": "https://www.baidu.com/s?wd=%E4%B8%89%E6%AC%A1%E4%B8%9C%E9%81%93%E4%B8%BB+%E8%BF%99%E6%AC%A1%E6%9C%89%E4%BB%80%E4%B9%88%E4%B8%8D%E4%B8%80%E6%A0%B7",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 529,
+      "title": "冬天不穿秋裤会变成老寒腿吗",
+      "platform_id": "baidu",
+      "rank": 10,
+      "url": "https://www.baidu.com/s?wd=%E5%86%AC%E5%A4%A9%E4%B8%8D%E7%A9%BF%E7%A7%8B%E8%A3%A4%E4%BC%9A%E5%8F%98%E6%88%90%E8%80%81%E5%AF%92%E8%85%BF%E5%90%97",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 530,
+      "title": "小米：相关内容纯属虚构",
+      "platform_id": "baidu",
+      "rank": 11,
+      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%EF%BC%9A%E7%9B%B8%E5%85%B3%E5%86%85%E5%AE%B9%E7%BA%AF%E5%B1%9E%E8%99%9A%E6%9E%84",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 531,
+      "title": "杜海涛英语直播 全障碍交流",
+      "platform_id": "baidu",
+      "rank": 12,
+      "url": "https://www.baidu.com/s?wd=%E6%9D%9C%E6%B5%B7%E6%B6%9B%E8%8B%B1%E8%AF%AD%E7%9B%B4%E6%92%AD+%E5%85%A8%E9%9A%9C%E7%A2%8D%E4%BA%A4%E6%B5%81",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 532,
+      "title": "特朗普出访亚洲团队名单",
+      "platform_id": "baidu",
+      "rank": 13,
+      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E8%AE%BF%E4%BA%9A%E6%B4%B2%E5%9B%A2%E9%98%9F%E5%90%8D%E5%8D%95",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 533,
+      "title": "深圳上空惊现“鲲鹏展翅”",
+      "platform_id": "baidu",
+      "rank": 14,
+      "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%8A%E7%A9%BA%E6%83%8A%E7%8E%B0%E2%80%9C%E9%B2%B2%E9%B9%8F%E5%B1%95%E7%BF%85%E2%80%9D",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 534,
+      "title": "小彩旗已拿到英国皇家学院硕士学位",
+      "platform_id": "baidu",
+      "rank": 15,
+      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E5%BD%A9%E6%97%97%E5%B7%B2%E6%8B%BF%E5%88%B0%E8%8B%B1%E5%9B%BD%E7%9A%87%E5%AE%B6%E5%AD%A6%E9%99%A2%E7%A1%95%E5%A3%AB%E5%AD%A6%E4%BD%8D",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 535,
+      "title": "每天晒太阳血管也会“光合作用”",
+      "platform_id": "baidu",
+      "rank": 16,
+      "url": "https://www.baidu.com/s?wd=%E6%AF%8F%E5%A4%A9%E6%99%92%E5%A4%AA%E9%98%B3%E8%A1%80%E7%AE%A1%E4%B9%9F%E4%BC%9A%E2%80%9C%E5%85%89%E5%90%88%E4%BD%9C%E7%94%A8%E2%80%9D",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 536,
+      "title": "花花一个眼神藏了800个心眼子",
+      "platform_id": "baidu",
+      "rank": 18,
+      "url": "https://www.baidu.com/s?wd=%E8%8A%B1%E8%8A%B1%E4%B8%80%E4%B8%AA%E7%9C%BC%E7%A5%9E%E8%97%8F%E4%BA%86800%E4%B8%AA%E5%BF%83%E7%9C%BC%E5%AD%90",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 537,
+      "title": "郑渊洁回应许飞接私活：当年分文未取",
+      "platform_id": "baidu",
+      "rank": 19,
+      "url": "https://www.baidu.com/s?wd=%E9%83%91%E6%B8%8A%E6%B4%81%E5%9B%9E%E5%BA%94%E8%AE%B8%E9%A3%9E%E6%8E%A5%E7%A7%81%E6%B4%BB%EF%BC%9A%E5%BD%93%E5%B9%B4%E5%88%86%E6%96%87%E6%9C%AA%E5%8F%96",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 538,
+      "title": "俄罗斯记者惊呼在深圳谁还用现金",
+      "platform_id": "baidu",
+      "rank": 20,
+      "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E8%AE%B0%E8%80%85%E6%83%8A%E5%91%BC%E5%9C%A8%E6%B7%B1%E5%9C%B3%E8%B0%81%E8%BF%98%E7%94%A8%E7%8E%B0%E9%87%91",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 539,
+      "title": "雷军社交名场面",
+      "platform_id": "baidu",
+      "rank": 21,
+      "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%A4%BE%E4%BA%A4%E5%90%8D%E5%9C%BA%E9%9D%A2",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 540,
+      "title": "废旧家电别着急扔",
+      "platform_id": "baidu",
+      "rank": 22,
+      "url": "https://www.baidu.com/s?wd=%E5%BA%9F%E6%97%A7%E5%AE%B6%E7%94%B5%E5%88%AB%E7%9D%80%E6%80%A5%E6%89%94",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 541,
+      "title": "小米回应雷军APEC发言紧张",
+      "platform_id": "baidu",
+      "rank": 23,
+      "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E9%9B%B7%E5%86%9BAPEC%E5%8F%91%E8%A8%80%E7%B4%A7%E5%BC%A0",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 542,
+      "title": "外国人在深圳聚餐齐齐用筷子",
+      "platform_id": "baidu",
+      "rank": 24,
+      "url": "https://www.baidu.com/s?wd=%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E6%B7%B1%E5%9C%B3%E8%81%9A%E9%A4%90%E9%BD%90%E9%BD%90%E7%94%A8%E7%AD%B7%E5%AD%90",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 543,
+      "title": "特朗普抵达菲律宾 现场响起熟悉的歌",
+      "platform_id": "baidu",
+      "rank": 25,
+      "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E8%BE%BE%E8%8F%B2%E5%BE%8B%E5%AE%BE+%E7%8E%B0%E5%9C%BA%E5%93%8D%E8%B5%B7%E7%86%9F%E6%82%89%E7%9A%84%E6%AD%8C",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 544,
+      "title": "工人8楼高空作业疑被住户割断安全绳",
+      "platform_id": "baidu",
+      "rank": 26,
+      "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA8%E6%A5%BC%E9%AB%98%E7%A9%BA%E4%BD%9C%E4%B8%9A%E7%96%91%E8%A2%AB%E4%BD%8F%E6%88%B7%E5%89%B2%E6%96%AD%E5%AE%89%E5%85%A8%E7%BB%B3",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 545,
+      "title": "耗时半年手工复刻圆明园海晏堂",
+      "platform_id": "baidu",
+      "rank": 27,
+      "url": "https://www.baidu.com/s?wd=%E8%80%97%E6%97%B6%E5%8D%8A%E5%B9%B4%E6%89%8B%E5%B7%A5%E5%A4%8D%E5%88%BB%E5%9C%86%E6%98%8E%E5%9B%AD%E6%B5%B7%E6%99%8F%E5%A0%82",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 546,
+      "title": "“十几年前聊天的网友应该是妈妈”",
+      "platform_id": "baidu",
+      "rank": 28,
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8D%81%E5%87%A0%E5%B9%B4%E5%89%8D%E8%81%8A%E5%A4%A9%E7%9A%84%E7%BD%91%E5%8F%8B%E5%BA%94%E8%AF%A5%E6%98%AF%E5%A6%88%E5%A6%88%E2%80%9D",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 547,
+      "title": "近半米高的超长奶茶火了",
+      "platform_id": "baidu",
+      "rank": 29,
+      "url": "https://www.baidu.com/s?wd=%E8%BF%91%E5%8D%8A%E7%B1%B3%E9%AB%98%E7%9A%84%E8%B6%85%E9%95%BF%E5%A5%B6%E8%8C%B6%E7%81%AB%E4%BA%86",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 548,
+      "title": "澎湃回声｜唐山涉嫌“虚假住院骗保”医院被取消工伤定点资格，省级监管部门已参与调查",
+      "platform_id": "thepaper",
+      "rank": 2,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34489900",
+      "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34489900",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 549,
+      "title": "冷门“顶流”｜研究满语40年，一位七旬学者的紧迫感",
+      "platform_id": "thepaper",
+      "rank": 4,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34490375",
+      "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34490375",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 550,
+      "title": "张升民人民日报撰文：保持惩治腐败高压态势",
+      "platform_id": "thepaper",
+      "rank": 6,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34491101",
+      "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34491101",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 551,
+      "title": "结婚9年3个孩子非亲生！男子索赔，法院一审判女方赔偿55.75万",
+      "platform_id": "thepaper",
+      "rank": 7,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34491998",
+      "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34491998",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 552,
+      "title": "APEC中国时间｜专访秘鲁前财长：APEC不是“清谈馆”，可为中小国家提供稳定外部支撑",
+      "platform_id": "thepaper",
+      "rank": 8,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34492303",
+      "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34492303",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 553,
+      "title": "女子在盒马申请400余次仅退款“薅”走1.7万元？涉嫌诈骗被刑拘",
+      "platform_id": "thepaper",
+      "rank": 9,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34492459",
+      "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34492459",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 554,
+      "title": "余华：英语编辑熟悉的中国作家不超过5个",
+      "platform_id": "thepaper",
+      "rank": 10,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34491303",
+      "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34491303",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 555,
+      "title": "蝙蝠侠成为新一任007！罗伯特·帕丁森将饰演詹姆斯·邦德",
+      "platform_id": "thepaper",
+      "rank": 11,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34490641",
+      "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34490641",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 556,
+      "title": "蝙蝠侠出演007，安全但太没新意了",
+      "platform_id": "thepaper",
+      "rank": 12,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34491192",
+      "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34491192",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 557,
+      "title": "郭德纲委托律师发声明：尊重善意监督，反对抹黑和污名化",
+      "platform_id": "thepaper",
+      "rank": 13,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34491256",
+      "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34491256",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 558,
+      "title": "年内回撤30%！现货黄金价格创逾一年新低，为何跌跌不休？",
+      "platform_id": "thepaper",
+      "rank": 14,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34490446",
+      "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34490446",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 559,
+      "title": "官宣了！罗伯特・帕丁森成为新一任007",
+      "platform_id": "thepaper",
+      "rank": 15,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34490635",
+      "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34490635",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 560,
+      "title": "360回应“市场部负责人被查”：发现该员工涉嫌经济问题，已向公安机关报案，正在调查",
+      "platform_id": "thepaper",
+      "rank": 16,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34491576",
+      "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34491576",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 561,
+      "title": "地标是如何炼成的｜黄鹤楼：不仅在诗词里，更在生活日常中",
+      "platform_id": "thepaper",
+      "rank": 17,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34490224",
+      "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34490224",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 562,
+      "title": "中方如何评价特朗普称“可能会与金正恩在中国会面”言论？外交部回应",
+      "platform_id": "thepaper",
+      "rank": 18,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34489922",
+      "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34489922",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 563,
+      "title": "TOP500、HPCG双榜第一！国家超级计算深圳中心“灵晟”蝉联全球超算榜首",
+      "platform_id": "thepaper",
+      "rank": 19,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34491261",
+      "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34491261",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 564,
+      "title": "红果短剧：截至10月累计治理肖像侵权作品超4.3万部",
+      "platform_id": "thepaper",
+      "rank": 20,
+      "url": "https://www.thepaper.cn/newsDetail_forward_34492069",
+      "mobile_url": "https://m.thepaper.cn/newsDetail_forward_34492069",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 565,
+      "title": "全美航班停飞后，美国银行也“崩”了？",
+      "platform_id": "ifeng",
+      "rank": 1,
+      "url": "https://news.ifeng.com/c/8y86Hsr0nLV",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 566,
+      "title": "英特尔CEO陈立武遭股东集体诉讼，诉讼书详情披露",
+      "platform_id": "ifeng",
+      "rank": 2,
+      "url": "https://news.ifeng.com/c/8y8Bh3CMkoX",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 567,
+      "title": "马斯克回应黄仁勋蓝V没了",
+      "platform_id": "ifeng",
+      "rank": 3,
+      "url": "https://news.ifeng.com/c/8y8APsbtaPZ",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 568,
+      "title": "英伟达暴跌35%，空头狂赚240亿美元",
+      "platform_id": "ifeng",
+      "rank": 4,
+      "url": "https://news.ifeng.com/c/8y7qFoCdcas",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 569,
+      "title": "胡塞武装逼近亚丁，联军换帅",
+      "platform_id": "ifeng",
+      "rank": 5,
+      "url": "https://news.ifeng.com/c/8y7vg9ZjBu8",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 570,
+      "title": "乌军启用以色列卫星终端替代“星链”",
+      "platform_id": "ifeng",
+      "rank": 6,
+      "url": "https://original.ifeng.com/c/8y7zt6n1p61",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 571,
+      "title": "万斯：愿意为总统“挡枪”，想骂特朗普又不敢的人尽管来骂我",
+      "platform_id": "ifeng",
+      "rank": 7,
+      "url": "https://news.ifeng.com/c/8y89SUxyyed",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 572,
+      "title": "“欧洲想请中国出面，打破气候谈判僵局”",
+      "platform_id": "ifeng",
+      "rank": 8,
+      "url": "https://news.ifeng.com/c/8y7zxSYCZ8i",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 573,
+      "title": "代号“沃利亚”，法军被曝秘密在乌行动数月",
+      "platform_id": "ifeng",
+      "rank": 9,
+      "url": "https://news.ifeng.com/c/8y8Bh3CMkrf",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 574,
+      "title": "民进党市长候选人98％存款是人民币，“抗中”人设保不住了？",
+      "platform_id": "ifeng",
+      "rank": 10,
+      "url": "https://news.ifeng.com/c/8y86Hsr0nKP",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 575,
+      "title": "“不加入这个圈子，只能吃土”，台当局10年砸16亿养亲绿艺人",
+      "platform_id": "ifeng",
+      "rank": 11,
+      "url": "https://news.ifeng.com/c/8y8KDkjB76t",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 576,
+      "title": "赴美留学生正在减少，多国学子开始转投中国",
+      "platform_id": "ifeng",
+      "rank": 12,
+      "url": "https://news.ifeng.com/c/8y891P3bCi9",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 577,
+      "title": "中国商务部：中加同意将初步联合安排的豁免措施延长两年",
+      "platform_id": "zaobao",
+      "rank": 1,
+      "url": "https://www.zaochenbao.com/news/china/202611/1785715.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 578,
+      "title": "美升级AI晶片出口管制 中国商务部：破坏国际经贸秩序",
+      "platform_id": "zaobao",
+      "rank": 2,
+      "url": "https://www.zaochenbao.com/news/china/202611/1785714.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 579,
+      "title": "中国防长时隔18年再访意大利",
+      "platform_id": "zaobao",
+      "rank": 3,
+      "url": "https://www.zaochenbao.com/news/china/202611/1785713.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 580,
+      "title": "下午察：中国AI大模型经历“至暗时刻”？",
+      "platform_id": "zaobao",
+      "rank": 4,
+      "url": "https://www.zaochenbao.com/news/china/202611/1785712.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 581,
+      "title": "王小洪四川调研：培育壮大外贸主体 做大外贸“朋友圈”",
+      "platform_id": "zaobao",
+      "rank": 5,
+      "url": "https://www.zaochenbao.com/news/china/202611/1785711.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 582,
+      "title": "特稿：深圳APEC“三巨头”同场引伙伴忧 中美求稳 朝鲜添变数",
+      "platform_id": "zaobao",
+      "rank": 6,
+      "url": "https://www.zaochenbao.com/news/china/202611/1785710.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 583,
+      "title": "巴新总理见习近平 称关闭台湾代表处曾面临国内阻力",
+      "platform_id": "zaobao",
+      "rank": 7,
+      "url": "https://www.zaochenbao.com/news/taiwan/202611/1785709.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 584,
+      "title": "澳大利亚对中国建筑木材产品展开反倾销调查",
+      "platform_id": "zaobao",
+      "rank": 8,
+      "url": "https://www.zaochenbao.com/news/china/202611/1785708.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 585,
+      "title": "百度李彦宏：AI应用普及不及预期 若不解决恐演变成泡沫",
+      "platform_id": "zaobao",
+      "rank": 9,
+      "url": "https://www.zaochenbao.com/news/china/202611/1785707.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 586,
+      "title": "小米机器人已在工厂实习 可工作八小时并自主充电",
+      "platform_id": "zaobao",
+      "rank": 10,
+      "url": "https://www.zaochenbao.com/news/china/202611/1785706.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 587,
+      "title": "习近平：深化改革并加快建设公正高效司法制度",
+      "platform_id": "zaobao",
+      "rank": 11,
+      "url": "https://www.zaochenbao.com/news/china/202611/1785705.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 588,
+      "title": "美国加码晶片出口管制 北京批长臂管辖扰乱全球产供链",
+      "platform_id": "zaobao",
+      "rank": 12,
+      "url": "https://www.zaochenbao.com/news/politics/202611/1785703.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 589,
+      "title": "特朗普称可能在中国会见金正恩 中方：没有相关信息",
+      "platform_id": "zaobao",
+      "rank": 13,
+      "url": "https://www.zaochenbao.com/news/politics/202611/1785700.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 590,
+      "title": "南非要求台湾代表处迁址未果 双方僵持三年",
+      "platform_id": "zaobao",
+      "rank": 14,
+      "url": "https://www.zaochenbao.com/news/taiwan/202611/1785697.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 591,
+      "title": "高市与中国部长握手交谈 为中日关系恶化后首次公开互动",
+      "platform_id": "zaobao",
+      "rank": 15,
+      "url": "https://www.zaochenbao.com/news/Chronicles/202611/1785696.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 592,
+      "title": "APEC峰会前 两架俄军机飞经台湾东部并进入日本领空",
+      "platform_id": "zaobao",
+      "rank": 16,
+      "url": "https://www.zaochenbao.com/news/taiwan/202611/1785695.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 593,
+      "title": "中国企业据报利用美国AI模型蒸馏技术 应对晶片限制",
+      "platform_id": "zaobao",
+      "rank": 17,
+      "url": "https://www.zaochenbao.com/news/politics/202611/1785691.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 594,
+      "title": "台湾外长林佳龙两个月内第二次访美",
+      "platform_id": "zaobao",
+      "rank": 18,
+      "url": "https://www.zaochenbao.com/news/taiwan/202611/1785688.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 595,
+      "title": "爱沙尼亚制定“末日韧性”战略",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 1,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/41b038760ba54231b933a0112600e0be.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 596,
+      "title": "日本GDP全球占比萎缩至3%",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 2,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/0c7d89b90c004a68bbf7abb078c5a052.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 597,
+      "title": "泽连斯基：欧洲代表首次与乌美举行会谈",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 3,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/eeb85dccbf2a4f17be773c5b60e7581c.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 598,
+      "title": "多名驻日美军接连被捕令日方气恼",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 4,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/e98094af0e504b19888a9fdffad2fed5.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 599,
+      "title": "欧洲五国拟在卢旺达设立移民遣返中心",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 5,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/ae6f14647bbb45ea965b41b13a710ac9.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 600,
+      "title": "黄仁勋X账号删除CEO头衔",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 6,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/6702f5b92854409bac0a2dd4d010e2ca.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 601,
+      "title": "从资源展示到国传升维 十堰城市形象传播出圈之路",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 7,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/6a7584cc91fa4c7abf3b7515ba357540.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 602,
+      "title": "巴西社交媒体竞选策略传入法国，各方竞相效仿以备战总统选举",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 8,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/deaa6effd205418b914363e4c8afee83.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 603,
+      "title": "日报社论：明确写入例外条款将导致“无核三原则”名存实亡",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 9,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/28f5fd79fb7945fa9d9582fd8a924955.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 604,
+      "title": "台媒：两岸迎来AI制药合作新机遇",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 10,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/ea77c2d252c94f42aed575dfeba4fe50.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 605,
+      "title": "台媒社论：两岸和平倡议有助打破“沉默螺旋”",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 11,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/47b7977728bb47bd80f7a84ae914e35c.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 606,
+      "title": "台湾半导体产业保持增长势头",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 12,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/daf0cfb49eac47f2b4e2ec378c7ad503.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 607,
+      "title": "中国“人工智能+”行动正迈入新阶段",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 13,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/5f0bf74a4ba34ee5a51b7ebf19b885a4.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 608,
+      "title": "外媒：中国保持火电下降绿电增长趋势",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 14,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/2f964d3b5ea14ce09c34d9df8265adb3.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 609,
+      "title": "“中国行动速度”令外企CEO惊叹",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 15,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/5ff2253e7cc2487fab6eedfd567ed669.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 610,
+      "title": "中国减脂营让英国体验者“大开眼界”",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 16,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/744c965a4f9e4543b5a5c47e10f737ca.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 611,
+      "title": "美媒：知识型合作为中乌关系提供持久助力",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 17,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/2333e4078d7949e5b8b2995f282ef5ca.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 612,
+      "title": "巴媒：全球权力处于再分配重要阶段",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 18,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/2ba08ca60dcb45409711a9d616f78b03.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 613,
+      "title": "德专家：德国车企至今搞不懂“中国速度”",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 19,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/47be85e01b1d4415b4f5e68e59ffc2db.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 614,
+      "title": "英媒：中国借助多边平台发挥自身影响力",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 20,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/7a69a089ef5b41d1b293a17f79c002e2.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 615,
+      "title": "美媒披露：美军正在中东各地紧急修建混凝土掩体",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 21,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/de299f397b1140c78cd8bc46c5763a03.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 616,
+      "title": "加州起诉OpenAI，涉80起人工智能模型失控事件",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 22,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/27cd306933294d1780cb549f0be5ea28.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 617,
+      "title": "美“幽灵枪”激增威胁民众安全",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 23,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/4b70dd83c07344fa91b9b19588d387c3.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 618,
+      "title": "80亿欧元！欧盟批准创纪录援乌款项",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 24,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/cbc9e20c57eb4c29b8c17424ca7704ee.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 619,
+      "title": "伊朗外长与巴基斯坦陆军参谋长会晤",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 25,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/0e70458c49634213a1eb4fc0b242e922.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 620,
+      "title": "俄乌互炸对方大桥",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 26,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/381c23fd7a4343a7aae3f6c3f80b43bd.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 621,
+      "title": "英国演员罗伯特·帕丁森成为新“007”",
+      "platform_id": "cankaoxiaoxi",
+      "rank": 27,
+      "url": "https://ckxxapp.ckxx.net/pages/2026/11/17/df2dfe457a1048848b0ce30af68edaac.html",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 622,
+      "title": "小米回应雷军APEC发言紧张",
+      "platform_id": "weibo",
+      "rank": 1,
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E9%9B%B7%E5%86%9BAPEC%E5%8F%91%E8%A8%80%E7%B4%A7%E5%BC%A0%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9E%E5%BA%94%E9%9B%B7%E5%86%9BAPEC%E5%8F%91%E8%A8%80%E7%B4%A7%E5%BC%A0%23&t=31&band_rank=1&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 623,
+      "title": "雷军APEC现场挨个发名片",
+      "platform_id": "weibo",
+      "rank": 2,
+      "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9BAPEC%E7%8E%B0%E5%9C%BA%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%90%8D%E7%89%87%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9BAPEC%E7%8E%B0%E5%9C%BA%E6%8C%A8%E4%B8%AA%E5%8F%91%E5%90%8D%E7%89%87%23&t=31&band_rank=2&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 624,
+      "title": "与亚太共赴深圳之约",
+      "platform_id": "weibo",
+      "rank": 3,
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8E%E4%BA%9A%E5%A4%AA%E5%85%B1%E8%B5%B4%E6%B7%B1%E5%9C%B3%E4%B9%8B%E7%BA%A6%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E4%B8%8E%E4%BA%9A%E5%A4%AA%E5%85%B1%E8%B5%B4%E6%B7%B1%E5%9C%B3%E4%B9%8B%E7%BA%A6%23&t=31&band_rank=3&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 625,
+      "title": "小米18真机曝光",
+      "platform_id": "weibo",
+      "rank": 4,
+      "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B318%E7%9C%9F%E6%9C%BA%E6%9B%9D%E5%85%89%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B318%E7%9C%9F%E6%9C%BA%E6%9B%9D%E5%85%89%23&t=31&band_rank=4&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 626,
+      "title": "国足2比2巴林",
+      "platform_id": "weibo",
+      "rank": 5,
+      "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B32%E6%AF%942%E5%B7%B4%E6%9E%97%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B32%E6%AF%942%E5%B7%B4%E6%9E%97%23&t=31&band_rank=5&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 627,
+      "title": "深圳人收起人字拖换皮鞋小白鞋",
+      "platform_id": "weibo",
+      "rank": 6,
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%BA%E6%94%B6%E8%B5%B7%E4%BA%BA%E5%AD%97%E6%8B%96%E6%8D%A2%E7%9A%AE%E9%9E%8B%E5%B0%8F%E7%99%BD%E9%9E%8B%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%BA%E6%94%B6%E8%B5%B7%E4%BA%BA%E5%AD%97%E6%8B%96%E6%8D%A2%E7%9A%AE%E9%9E%8B%E5%B0%8F%E7%99%BD%E9%9E%8B%23&t=31&band_rank=6&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 628,
+      "title": "特朗普戴红领带开启亚洲行",
+      "platform_id": "weibo",
+      "rank": 7,
+      "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%B4%E7%BA%A2%E9%A2%86%E5%B8%A6%E5%BC%80%E5%90%AF%E4%BA%9A%E6%B4%B2%E8%A1%8C%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%B4%E7%BA%A2%E9%A2%86%E5%B8%A6%E5%BC%80%E5%90%AF%E4%BA%9A%E6%B4%B2%E8%A1%8C%23&t=31&band_rank=7&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 629,
+      "title": "谷雨豆瓣开分6.5",
+      "platform_id": "weibo",
+      "rank": 8,
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E9%9B%A8%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%866.5%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E9%9B%A8%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%866.5%23&t=31&band_rank=8&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 630,
+      "title": "APEC经贸活力藏在深圳陆海空通道里",
+      "platform_id": "weibo",
+      "rank": 9,
+      "url": "https://s.weibo.com/weibo?q=%23APEC%E7%BB%8F%E8%B4%B8%E6%B4%BB%E5%8A%9B%E8%97%8F%E5%9C%A8%E6%B7%B1%E5%9C%B3%E9%99%86%E6%B5%B7%E7%A9%BA%E9%80%9A%E9%81%93%E9%87%8C%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23APEC%E7%BB%8F%E8%B4%B8%E6%B4%BB%E5%8A%9B%E8%97%8F%E5%9C%A8%E6%B7%B1%E5%9C%B3%E9%99%86%E6%B5%B7%E7%A9%BA%E9%80%9A%E9%81%93%E9%87%8C%23&t=31&band_rank=9&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 631,
+      "title": "外国人在深圳贴退热贴用筷子吃烧烤",
+      "platform_id": "weibo",
+      "rank": 10,
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E6%B7%B1%E5%9C%B3%E8%B4%B4%E9%80%80%E7%83%AD%E8%B4%B4%E7%94%A8%E7%AD%B7%E5%AD%90%E5%90%83%E7%83%A7%E7%83%A4%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%9C%A8%E6%B7%B1%E5%9C%B3%E8%B4%B4%E9%80%80%E7%83%AD%E8%B4%B4%E7%94%A8%E7%AD%B7%E5%AD%90%E5%90%83%E7%83%A7%E7%83%A4%23&t=31&band_rank=10&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 632,
+      "title": "许飞没撒谎",
+      "platform_id": "weibo",
+      "rank": 11,
+      "url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%A3%9E%E6%B2%A1%E6%92%92%E8%B0%8E%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%A3%9E%E6%B2%A1%E6%92%92%E8%B0%8E%23&t=31&band_rank=11&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 633,
+      "title": "一个月一万块这工作普通人干不了",
+      "platform_id": "weibo",
+      "rank": 12,
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E6%9C%88%E4%B8%80%E4%B8%87%E5%9D%97%E8%BF%99%E5%B7%A5%E4%BD%9C%E6%99%AE%E9%80%9A%E4%BA%BA%E5%B9%B2%E4%B8%8D%E4%BA%86",
+      "mobile_url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E6%9C%88%E4%B8%80%E4%B8%87%E5%9D%97%E8%BF%99%E5%B7%A5%E4%BD%9C%E6%99%AE%E9%80%9A%E4%BA%BA%E5%B9%B2%E4%B8%8D%E4%BA%86&t=31&band_rank=12&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 634,
+      "title": "杜海涛英语直播 全障碍交流",
+      "platform_id": "weibo",
+      "rank": 13,
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%9C%E6%B5%B7%E6%B6%9B%E8%8B%B1%E8%AF%AD%E7%9B%B4%E6%92%AD+%E5%85%A8%E9%9A%9C%E7%A2%8D%E4%BA%A4%E6%B5%81",
+      "mobile_url": "https://s.weibo.com/weibo?q=%E6%9D%9C%E6%B5%B7%E6%B6%9B%E8%8B%B1%E8%AF%AD%E7%9B%B4%E6%92%AD%20%E5%85%A8%E9%9A%9C%E7%A2%8D%E4%BA%A4%E6%B5%81&t=31&band_rank=13&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 635,
+      "title": "女子盒马仅退款400次零食堆成山",
+      "platform_id": "weibo",
+      "rank": 14,
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%9B%92%E9%A9%AC%E4%BB%85%E9%80%80%E6%AC%BE400%E6%AC%A1%E9%9B%B6%E9%A3%9F%E5%A0%86%E6%88%90%E5%B1%B1%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%9B%92%E9%A9%AC%E4%BB%85%E9%80%80%E6%AC%BE400%E6%AC%A1%E9%9B%B6%E9%A3%9F%E5%A0%86%E6%88%90%E5%B1%B1%23&t=31&band_rank=14&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 636,
+      "title": "小锁女装",
+      "platform_id": "weibo",
+      "rank": 15,
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%94%81%E5%A5%B3%E8%A3%85",
+      "mobile_url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E9%94%81%E5%A5%B3%E8%A3%85&t=31&band_rank=15&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 637,
+      "title": "霍建华不做医美的原因",
+      "platform_id": "weibo",
+      "rank": 16,
+      "url": "https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%BB%BA%E5%8D%8E%E4%B8%8D%E5%81%9A%E5%8C%BB%E7%BE%8E%E7%9A%84%E5%8E%9F%E5%9B%A0%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%BB%BA%E5%8D%8E%E4%B8%8D%E5%81%9A%E5%8C%BB%E7%BE%8E%E7%9A%84%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=16&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 638,
+      "title": "慕清明退圈",
+      "platform_id": "weibo",
+      "rank": 17,
+      "url": "https://s.weibo.com/weibo?q=%E6%85%95%E6%B8%85%E6%98%8E%E9%80%80%E5%9C%88",
+      "mobile_url": "https://s.weibo.com/weibo?q=%E6%85%95%E6%B8%85%E6%98%8E%E9%80%80%E5%9C%88&t=31&band_rank=17&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 639,
+      "title": "关晓彤以后就这样走红毯吧",
+      "platform_id": "weibo",
+      "rank": 18,
+      "url": "https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E4%BB%A5%E5%90%8E%E5%B0%B1%E8%BF%99%E6%A0%B7%E8%B5%B0%E7%BA%A2%E6%AF%AF%E5%90%A7%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E4%BB%A5%E5%90%8E%E5%B0%B1%E8%BF%99%E6%A0%B7%E8%B5%B0%E7%BA%A2%E6%AF%AF%E5%90%A7%23&t=31&band_rank=18&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 640,
+      "title": "今天是太阳雨剧宣尺度",
+      "platform_id": "weibo",
+      "rank": 19,
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E5%89%A7%E5%AE%A3%E5%B0%BA%E5%BA%A6%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%AF%E5%A4%AA%E9%98%B3%E9%9B%A8%E5%89%A7%E5%AE%A3%E5%B0%BA%E5%BA%A6%23&t=31&band_rank=19&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 641,
+      "title": "原来王子璇也高反了",
+      "platform_id": "weibo",
+      "rank": 20,
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%8E%8B%E5%AD%90%E7%92%87%E4%B9%9F%E9%AB%98%E5%8F%8D%E4%BA%86%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%8E%8B%E5%AD%90%E7%92%87%E4%B9%9F%E9%AB%98%E5%8F%8D%E4%BA%86%23&t=31&band_rank=20&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 642,
+      "title": "国足后防线集体目送巴林球员进球",
+      "platform_id": "weibo",
+      "rank": 21,
+      "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E5%90%8E%E9%98%B2%E7%BA%BF%E9%9B%86%E4%BD%93%E7%9B%AE%E9%80%81%E5%B7%B4%E6%9E%97%E7%90%83%E5%91%98%E8%BF%9B%E7%90%83%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E5%90%8E%E9%98%B2%E7%BA%BF%E9%9B%86%E4%BD%93%E7%9B%AE%E9%80%81%E5%B7%B4%E6%9E%97%E7%90%83%E5%91%98%E8%BF%9B%E7%90%83%23&t=31&band_rank=21&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 643,
+      "title": "以为孙千拉腿了直到别人站过来",
+      "platform_id": "weibo",
+      "rank": 22,
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E5%AD%99%E5%8D%83%E6%8B%89%E8%85%BF%E4%BA%86%E7%9B%B4%E5%88%B0%E5%88%AB%E4%BA%BA%E7%AB%99%E8%BF%87%E6%9D%A5%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E5%AD%99%E5%8D%83%E6%8B%89%E8%85%BF%E4%BA%86%E7%9B%B4%E5%88%B0%E5%88%AB%E4%BA%BA%E7%AB%99%E8%BF%87%E6%9D%A5%23&t=31&band_rank=22&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 644,
+      "title": "猫的树预判到德国篇人设ooc了",
+      "platform_id": "weibo",
+      "rank": 23,
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%9A%84%E6%A0%91%E9%A2%84%E5%88%A4%E5%88%B0%E5%BE%B7%E5%9B%BD%E7%AF%87%E4%BA%BA%E8%AE%BEooc%E4%BA%86%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E7%8C%AB%E7%9A%84%E6%A0%91%E9%A2%84%E5%88%A4%E5%88%B0%E5%BE%B7%E5%9B%BD%E7%AF%87%E4%BA%BA%E8%AE%BEooc%E4%BA%86%23&t=31&band_rank=23&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 645,
+      "title": "霍建华说不会参加林心如制作的戏",
+      "platform_id": "weibo",
+      "rank": 24,
+      "url": "https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%BB%BA%E5%8D%8E%E8%AF%B4%E4%B8%8D%E4%BC%9A%E5%8F%82%E5%8A%A0%E6%9E%97%E5%BF%83%E5%A6%82%E5%88%B6%E4%BD%9C%E7%9A%84%E6%88%8F%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%BB%BA%E5%8D%8E%E8%AF%B4%E4%B8%8D%E4%BC%9A%E5%8F%82%E5%8A%A0%E6%9E%97%E5%BF%83%E5%A6%82%E5%88%B6%E4%BD%9C%E7%9A%84%E6%88%8F%23&t=31&band_rank=24&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 646,
+      "title": "深圳学生谈中美俄元首会晤",
+      "platform_id": "weibo",
+      "rank": 25,
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%AD%A6%E7%94%9F%E8%B0%88%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%AD%A6%E7%94%9F%E8%B0%88%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=25&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 647,
+      "title": "原来白小纯说了这么多遍天霸啊",
+      "platform_id": "weibo",
+      "rank": 26,
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%99%BD%E5%B0%8F%E7%BA%AF%E8%AF%B4%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E9%81%8D%E5%A4%A9%E9%9C%B8%E5%95%8A%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%99%BD%E5%B0%8F%E7%BA%AF%E8%AF%B4%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E9%81%8D%E5%A4%A9%E9%9C%B8%E5%95%8A%23&t=31&band_rank=26&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 648,
+      "title": "字节 微信",
+      "platform_id": "weibo",
+      "rank": 27,
+      "url": "https://s.weibo.com/weibo?q=%E5%AD%97%E8%8A%82+%E5%BE%AE%E4%BF%A1",
+      "mobile_url": "https://s.weibo.com/weibo?q=%E5%AD%97%E8%8A%82%20%E5%BE%AE%E4%BF%A1&t=31&band_rank=27&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 649,
+      "title": "中国U19获熊猫杯冠军",
+      "platform_id": "weibo",
+      "rank": 28,
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDU19%E8%8E%B7%E7%86%8A%E7%8C%AB%E6%9D%AF%E5%86%A0%E5%86%9B%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDU19%E8%8E%B7%E7%86%8A%E7%8C%AB%E6%9D%AF%E5%86%A0%E5%86%9B%23&t=31&band_rank=28&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 650,
+      "title": "杨洋现偶回宫",
+      "platform_id": "weibo",
+      "rank": 29,
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%8E%B0%E5%81%B6%E5%9B%9E%E5%AE%AB%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%8E%B0%E5%81%B6%E5%9B%9E%E5%AE%AB%23&t=31&band_rank=29&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 651,
+      "title": "A股为何没等来大反弹",
+      "platform_id": "weibo",
+      "rank": 30,
+      "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%BA%E4%BD%95%E6%B2%A1%E7%AD%89%E6%9D%A5%E5%A4%A7%E5%8F%8D%E5%BC%B9%23",
+      "mobile_url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E4%B8%BA%E4%BD%95%E6%B2%A1%E7%AD%89%E6%9D%A5%E5%A4%A7%E5%8F%8D%E5%BC%B9%23&t=31&band_rank=30&Refer=top",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 652,
+      "title": "国足2:2战平巴林",
+      "platform_id": "douyin",
+      "rank": 1,
+      "url": "https://www.douyin.com/hot/2751268",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 653,
+      "title": "媒体：特朗普将于18日晚抵达深圳",
+      "platform_id": "douyin",
+      "rank": 2,
+      "url": "https://www.douyin.com/hot/2751432",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 654,
+      "title": "APEC是什么",
+      "platform_id": "douyin",
+      "rank": 3,
+      "url": "https://www.douyin.com/hot/2751323",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 655,
+      "title": "在深圳读懂APEC中国故事",
+      "platform_id": "douyin",
+      "rank": 4,
+      "url": "https://www.douyin.com/hot/2749598",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 656,
+      "title": "贵州辣卤会惩罚每一个嘴硬的人",
+      "platform_id": "douyin",
+      "rank": 5,
+      "url": "https://www.douyin.com/hot/2750456",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 657,
+      "title": "伟大的长征",
+      "platform_id": "douyin",
+      "rank": 6,
+      "url": "https://www.douyin.com/hot/2751279",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 658,
+      "title": "抄抄老吃家的过冬美食清单",
+      "platform_id": "douyin",
+      "rank": 7,
+      "url": "https://www.douyin.com/hot/2750444",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 659,
+      "title": "暖冬来碗能熬出油的敖汉小米",
+      "platform_id": "douyin",
+      "rank": 8,
+      "url": "https://www.douyin.com/hot/2750882",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 660,
+      "title": "赴鹏城之约 寻合作答案",
+      "platform_id": "douyin",
+      "rank": 9,
+      "url": "https://www.douyin.com/hot/2751327",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 661,
+      "title": "APEC峰会有哪些领导人参加",
+      "platform_id": "douyin",
+      "rank": 10,
+      "url": "https://www.douyin.com/hot/2750628",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 662,
+      "title": "狮子座流星雨迎来极大期",
+      "platform_id": "douyin",
+      "rank": 12,
+      "url": "https://www.douyin.com/hot/2750822",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 663,
+      "title": "慌啥子嘛教学来了",
+      "platform_id": "douyin",
+      "rank": 13,
+      "url": "https://www.douyin.com/hot/2749844",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 664,
+      "title": "APEC媒体中心餐食出圈",
+      "platform_id": "douyin",
+      "rank": 14,
+      "url": "https://www.douyin.com/hot/2749805",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 665,
+      "title": "小米辟谣汽车召回短信",
+      "platform_id": "douyin",
+      "rank": 15,
+      "url": "https://www.douyin.com/hot/2750330",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 666,
+      "title": "最近想谈恋爱现在突然想开了",
+      "platform_id": "douyin",
+      "rank": 17,
+      "url": "https://www.douyin.com/hot/2749188",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 667,
+      "title": "辣皮子牛肋排香迷糊了",
+      "platform_id": "douyin",
+      "rank": 19,
+      "url": "https://www.douyin.com/hot/2751093",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 668,
+      "title": "东营观鸟浪全攻略",
+      "platform_id": "douyin",
+      "rank": 20,
+      "url": "https://www.douyin.com/hot/2749687",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 669,
+      "title": "你看懂丑狐了吗",
+      "platform_id": "douyin",
+      "rank": 22,
+      "url": "https://www.douyin.com/hot/2750449",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 670,
+      "title": "每个人都能测出颜值高光",
+      "platform_id": "douyin",
+      "rank": 24,
+      "url": "https://www.douyin.com/hot/2751154",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 671,
+      "title": "吴磊在10米鲨鱼池里潜水",
+      "platform_id": "douyin",
+      "rank": 25,
+      "url": "https://www.douyin.com/hot/2750359",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 672,
+      "title": "郑雨陈砚周结婚了",
+      "platform_id": "douyin",
+      "rank": 26,
+      "url": "https://www.douyin.com/hot/2750583",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 673,
+      "title": "刘回新歌你猜",
+      "platform_id": "douyin",
+      "rank": 27,
+      "url": "https://www.douyin.com/hot/2751065",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 674,
+      "title": "被慌啥子嘛慢慢来治愈了",
+      "platform_id": "douyin",
+      "rank": 28,
+      "url": "https://www.douyin.com/hot/2750652",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 675,
+      "title": "BLG获赠NBA专属球衣",
+      "platform_id": "douyin",
+      "rank": 29,
+      "url": "https://www.douyin.com/hot/2750649",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 676,
+      "title": "篮网欢迎BLG来到主场观赛",
+      "platform_id": "douyin",
+      "rank": 30,
+      "url": "https://www.douyin.com/hot/2750547",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 677,
+      "title": "在APEC感受跨越山海的情谊",
+      "platform_id": "bilibili-hot-search",
+      "rank": 2,
+      "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8APEC%E6%84%9F%E5%8F%97%E8%B7%A8%E8%B6%8A%E5%B1%B1%E6%B5%B7%E7%9A%84%E6%83%85%E8%B0%8A",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 678,
+      "title": "BLG夺冠赛事语音",
+      "platform_id": "bilibili-hot-search",
+      "rank": 3,
+      "url": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%B5%9B%E4%BA%8B%E8%AF%AD%E9%9F%B3",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 679,
+      "title": "国足2-2巴林",
+      "platform_id": "bilibili-hot-search",
+      "rank": 4,
+      "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%B6%B32-2%E5%B7%B4%E6%9E%97",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 680,
+      "title": "我的S16预测成绩单",
+      "platform_id": "bilibili-hot-search",
+      "rank": 5,
+      "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E7%9A%84S16%E9%A2%84%E6%B5%8B%E6%88%90%E7%BB%A9%E5%8D%95",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 681,
+      "title": "3分钟看懂APEC与你我的关系",
+      "platform_id": "bilibili-hot-search",
+      "rank": 6,
+      "url": "https://search.bilibili.com/all?keyword=3%E5%88%86%E9%92%9F%E7%9C%8B%E6%87%82APEC%E4%B8%8E%E4%BD%A0%E6%88%91%E7%9A%84%E5%85%B3%E7%B3%BB",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 682,
+      "title": "马斯克确认将前往中国",
+      "platform_id": "bilibili-hot-search",
+      "rank": 7,
+      "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A1%AE%E8%AE%A4%E5%B0%86%E5%89%8D%E5%BE%80%E4%B8%AD%E5%9B%BD",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 683,
+      "title": "白小纯青稚各有哪些痛点",
+      "platform_id": "bilibili-hot-search",
+      "rank": 8,
+      "url": "https://search.bilibili.com/all?keyword=%E7%99%BD%E5%B0%8F%E7%BA%AF%E9%9D%92%E7%A8%9A%E5%90%84%E6%9C%89%E5%93%AA%E4%BA%9B%E7%97%9B%E7%82%B9",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 684,
+      "title": "解说逐局回看BLG夺冠之路",
+      "platform_id": "bilibili-hot-search",
+      "rank": 9,
+      "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%B4%E9%80%90%E5%B1%80%E5%9B%9E%E7%9C%8BBLG%E5%A4%BA%E5%86%A0%E4%B9%8B%E8%B7%AF",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 685,
+      "title": "7天大会员怎么看不浪费",
+      "platform_id": "bilibili-hot-search",
+      "rank": 10,
+      "url": "https://search.bilibili.com/all?keyword=7%E5%A4%A9%E5%A4%A7%E4%BC%9A%E5%91%98%E6%80%8E%E4%B9%88%E7%9C%8B%E4%B8%8D%E6%B5%AA%E8%B4%B9",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 686,
+      "title": "U19国足熊猫杯夺冠",
+      "platform_id": "bilibili-hot-search",
+      "rank": 11,
+      "url": "https://search.bilibili.com/all?keyword=U19%E5%9B%BD%E8%B6%B3%E7%86%8A%E7%8C%AB%E6%9D%AF%E5%A4%BA%E5%86%A0",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 687,
+      "title": "别人看骑行我在吴磊小课堂听课",
+      "platform_id": "bilibili-hot-search",
+      "rank": 13,
+      "url": "https://search.bilibili.com/all?keyword=%E5%88%AB%E4%BA%BA%E7%9C%8B%E9%AA%91%E8%A1%8C%E6%88%91%E5%9C%A8%E5%90%B4%E7%A3%8A%E5%B0%8F%E8%AF%BE%E5%A0%82%E5%90%AC%E8%AF%BE",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 688,
+      "title": "非凡之爱蜘蛛侠真人版",
+      "platform_id": "bilibili-hot-search",
+      "rank": 16,
+      "url": "https://search.bilibili.com/all?keyword=%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1%E8%9C%98%E8%9B%9B%E4%BE%A0%E7%9C%9F%E4%BA%BA%E7%89%88",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 689,
+      "title": "后会友期 谁在按剧本演戏",
+      "platform_id": "bilibili-hot-search",
+      "rank": 17,
+      "url": "https://search.bilibili.com/all?keyword=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F+%E8%B0%81%E5%9C%A8%E6%8C%89%E5%89%A7%E6%9C%AC%E6%BC%94%E6%88%8F",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 690,
+      "title": "中国玩家破纪录速通泰拉瑞亚",
+      "platform_id": "bilibili-hot-search",
+      "rank": 21,
+      "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%8E%A9%E5%AE%B6%E7%A0%B4%E7%BA%AA%E5%BD%95%E9%80%9F%E9%80%9A%E6%B3%B0%E6%8B%89%E7%91%9E%E4%BA%9A",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 691,
+      "title": "国产中单Knight的加冕之路",
+      "platform_id": "bilibili-hot-search",
+      "rank": 22,
+      "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E4%B8%AD%E5%8D%95Knight%E7%9A%84%E5%8A%A0%E5%86%95%E4%B9%8B%E8%B7%AF",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 692,
+      "title": "BLG夺冠过程中的热梗",
+      "platform_id": "bilibili-hot-search",
+      "rank": 23,
+      "url": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E7%83%AD%E6%A2%97",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 693,
+      "title": "小鹿探秘GTA6罪恶之都取景地",
+      "platform_id": "bilibili-hot-search",
+      "rank": 24,
+      "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E9%B9%BF%E6%8E%A2%E7%A7%98GTA6%E7%BD%AA%E6%81%B6%E4%B9%8B%E9%83%BD%E5%8F%96%E6%99%AF%E5%9C%B0",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 694,
+      "title": "万字复盘KPL年总决赛",
+      "platform_id": "bilibili-hot-search",
+      "rank": 26,
+      "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E5%A4%8D%E7%9B%98KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E8%B5%9B",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 695,
+      "title": "BLG夺冠后Bin哭了",
+      "platform_id": "bilibili-hot-search",
+      "rank": 27,
+      "url": "https://search.bilibili.com/all?keyword=BLG%E5%A4%BA%E5%86%A0%E5%90%8EBin%E5%93%AD%E4%BA%86",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 696,
+      "title": "新任007为何是帕丁森",
+      "platform_id": "bilibili-hot-search",
+      "rank": 29,
+      "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E4%BB%BB007%E4%B8%BA%E4%BD%95%E6%98%AF%E5%B8%95%E4%B8%81%E6%A3%AE",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 697,
+      "title": "如何看待俞敏洪再谈南极游事件，称南极风波让自己重新思考企业应该为谁而活？",
+      "platform_id": "zhihu",
+      "rank": 1,
+      "url": "https://www.zhihu.com/question/2105960985865319091",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 698,
+      "title": "特朗普启程亚洲行，准备参与 APEC 会议，称「可能与金正恩委员长会面」，哪些信息值得关注？",
+      "platform_id": "zhihu",
+      "rank": 3,
+      "url": "https://www.zhihu.com/question/2105949199779086374",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 699,
+      "title": "波司登王力宏同款羽绒服售价 2399 元至 5999 元，仅售 16 件，波司登高端化之路走错了吗？",
+      "platform_id": "zhihu",
+      "rank": 4,
+      "url": "https://www.zhihu.com/question/2105450993685213313",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 700,
+      "title": "纵观历史几千年，为什么科技才近一两百年发生了质的飞跃，有了电话、飞机、火车，那么之前的人们在干嘛去了？",
+      "platform_id": "zhihu",
+      "rank": 5,
+      "url": "https://www.zhihu.com/question/46853150",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 701,
+      "title": "最新研究显示全球冰冻圈已突破安全底线，部分变化不可逆，会带来什么影响？普通人能怎么应对？",
+      "platform_id": "zhihu",
+      "rank": 6,
+      "url": "https://www.zhihu.com/question/2105719588914840866",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 702,
+      "title": "能说一下你们知道的冷知识吗？",
+      "platform_id": "zhihu",
+      "rank": 7,
+      "url": "https://www.zhihu.com/question/2075217094136827964",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 703,
+      "title": "腾讯总办发文复盘司庆讲话，号召全员 AI 时代再创业，并推进组织扁平化，有哪些看点？这波改革能成吗？",
+      "platform_id": "zhihu",
+      "rank": 8,
+      "url": "https://www.zhihu.com/question/2105757716606084891",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 704,
+      "title": "味精出现之前，中国人靠什么吊汤？",
+      "platform_id": "zhihu",
+      "rank": 9,
+      "url": "https://www.zhihu.com/question/2095862280642638365",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 705,
+      "title": "中国 985 大学是否全部进入世界前 1000？",
+      "platform_id": "zhihu",
+      "rank": 11,
+      "url": "https://www.zhihu.com/question/2105232985708566001",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 706,
+      "title": "字节能做出超越腾讯的聊天软件吗？",
+      "platform_id": "zhihu",
+      "rank": 12,
+      "url": "https://www.zhihu.com/question/2106049410635231561",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 707,
+      "title": "连续坚持 10 秒不呼吸就奖励 100 元，每再坚持 1 秒，奖励就会翻倍一次，你认为你能赚多少？",
+      "platform_id": "zhihu",
+      "rank": 13,
+      "url": "https://www.zhihu.com/question/2104407572514091928",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 708,
+      "title": "为何芒果能精准抓住 NPD 特质这一元素，并找到嘉宾做出多档爆款综艺？现实生活中真有这么多 NPD 吗？",
+      "platform_id": "zhihu",
+      "rank": 14,
+      "url": "https://www.zhihu.com/question/2088256382164104954",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 709,
+      "title": "《地下城与勇士》怀旧服定于 2027 年上线，你认为「八百万勇士」能否如期回归？",
+      "platform_id": "zhihu",
+      "rank": 15,
+      "url": "https://www.zhihu.com/question/2022437072498083012",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 710,
+      "title": "61 岁女子登机口抛硬币祈福致航班延误 58 分钟被拘 5 日，该处罚尺度是否合理？",
+      "platform_id": "zhihu",
+      "rank": 16,
+      "url": "https://www.zhihu.com/question/2105818186549666703",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 711,
+      "title": "为什么有些沙漠不适合种树？如果我们把所有沙漠都种满树，那不就能消灭沙漠了吗？",
+      "platform_id": "zhihu",
+      "rank": 17,
+      "url": "https://www.zhihu.com/question/2105578024976631285",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 712,
+      "title": "美联储主席警告美国 AI 热潮若落空将致美股大跌失业率攀升，该判断有哪些现实依据？",
+      "platform_id": "zhihu",
+      "rank": 18,
+      "url": "https://www.zhihu.com/question/2105947087221412788",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 713,
+      "title": "16G 显存显卡本地跑大模型，显存不够时，哪些妥协是可以接受的，哪些绝对不能碰？",
+      "platform_id": "zhihu",
+      "rank": 19,
+      "url": "https://www.zhihu.com/question/2077342073137672473",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 714,
+      "title": "现在的 AI 剧制作越来越精良，不久的将来，它是否会完全抢占真人剧市场？",
+      "platform_id": "zhihu",
+      "rank": 20,
+      "url": "https://www.zhihu.com/question/2054598994492396545",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 715,
+      "title": "吧友手写《麦穗与羊》观后感",
+      "platform_id": "tieba",
+      "rank": 1,
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E6%89%8B%E5%86%99%E3%80%8A%E9%BA%A6%E7%A9%97%E4%B8%8E%E7%BE%8A%E3%80%8B%E8%A7%82%E5%90%8E%E6%84%9F&topic_id=28369924",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 716,
+      "title": "GTA6发售吧友坐等直播",
+      "platform_id": "tieba",
+      "rank": 3,
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=GTA6%E5%8F%91%E5%94%AE%E5%90%A7%E5%8F%8B%E5%9D%90%E7%AD%89%E7%9B%B4%E6%92%AD&topic_id=28369923",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 717,
+      "title": "吧友肉眼手绘台风云图",
+      "platform_id": "tieba",
+      "rank": 5,
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E8%82%89%E7%9C%BC%E6%89%8B%E7%BB%98%E5%8F%B0%E9%A3%8E%E4%BA%91%E5%9B%BE&topic_id=28369907",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 718,
+      "title": "吧友考古暴力摩托刘沛松梗起源",
+      "platform_id": "tieba",
+      "rank": 7,
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E8%80%83%E5%8F%A4%E6%9A%B4%E5%8A%9B%E6%91%A9%E6%89%98%E5%88%98%E6%B2%9B%E6%9D%BE%E6%A2%97%E8%B5%B7%E6%BA%90&topic_id=28369904",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 719,
+      "title": "吧友码九十万字顺手造个朝代",
+      "platform_id": "tieba",
+      "rank": 11,
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E7%A0%81%E4%B9%9D%E5%8D%81%E4%B8%87%E5%AD%97%E9%A1%BA%E6%89%8B%E9%80%A0%E4%B8%AA%E6%9C%9D%E4%BB%A3&topic_id=28369915",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 720,
+      "title": "吧友专业修复飞雪旧图",
+      "platform_id": "tieba",
+      "rank": 12,
+      "url": "https://tieba.baidu.com/hottopic/browse/hottopic?amp%3Btopic_name=%E5%90%A7%E5%8F%8B%E4%B8%93%E4%B8%9A%E4%BF%AE%E5%A4%8D%E9%A3%9E%E9%9B%AA%E6%97%A7%E5%9B%BE&topic_id=28369914",
+      "mobile_url": "",
+      "first_crawl_time": "22-48",
+      "last_crawl_time": "22-48",
+      "crawl_count": 1,
+      "created_at": "2026-11-17 22:48:48",
+      "updated_at": "2026-11-17 22:48:48"
     }
   ],
   "sqlite_sequence": [
     {
       "name": "news_items",
-      "seq": 490
+      "seq": 720
     },
     {
       "name": "rank_history",
-      "seq": 604
+      "seq": 906
     },
     {
       "name": "crawl_records",
-      "seq": 2
+      "seq": 3
     },
     {
       "name": "title_changes",
@@ -10707,6 +13697,2120 @@
       "rank": 10,
       "crawl_time": "12-43",
       "created_at": "2026-11-17 12:43:25"
+    },
+    {
+      "id": 605,
+      "news_item_id": 491,
+      "rank": 1,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 606,
+      "news_item_id": 492,
+      "rank": 2,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 607,
+      "news_item_id": 493,
+      "rank": 3,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 608,
+      "news_item_id": 494,
+      "rank": 4,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 609,
+      "news_item_id": 495,
+      "rank": 5,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 610,
+      "news_item_id": 496,
+      "rank": 6,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 611,
+      "news_item_id": 497,
+      "rank": 7,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 612,
+      "news_item_id": 498,
+      "rank": 8,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 613,
+      "news_item_id": 499,
+      "rank": 9,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 614,
+      "news_item_id": 500,
+      "rank": 10,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 615,
+      "news_item_id": 501,
+      "rank": 11,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 616,
+      "news_item_id": 502,
+      "rank": 12,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 617,
+      "news_item_id": 503,
+      "rank": 13,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 618,
+      "news_item_id": 504,
+      "rank": 14,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 619,
+      "news_item_id": 505,
+      "rank": 15,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 620,
+      "news_item_id": 506,
+      "rank": 16,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 621,
+      "news_item_id": 313,
+      "rank": 17,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 622,
+      "news_item_id": 507,
+      "rank": 18,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 623,
+      "news_item_id": 508,
+      "rank": 19,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 624,
+      "news_item_id": 509,
+      "rank": 20,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 625,
+      "news_item_id": 510,
+      "rank": 21,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 626,
+      "news_item_id": 511,
+      "rank": 22,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 627,
+      "news_item_id": 512,
+      "rank": 23,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 628,
+      "news_item_id": 513,
+      "rank": 24,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 629,
+      "news_item_id": 514,
+      "rank": 25,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 630,
+      "news_item_id": 515,
+      "rank": 26,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 631,
+      "news_item_id": 516,
+      "rank": 27,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 632,
+      "news_item_id": 517,
+      "rank": 28,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 633,
+      "news_item_id": 518,
+      "rank": 29,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 634,
+      "news_item_id": 519,
+      "rank": 30,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 635,
+      "news_item_id": 520,
+      "rank": 1,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 636,
+      "news_item_id": 521,
+      "rank": 2,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 637,
+      "news_item_id": 522,
+      "rank": 3,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 638,
+      "news_item_id": 523,
+      "rank": 4,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 639,
+      "news_item_id": 524,
+      "rank": 5,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 640,
+      "news_item_id": 525,
+      "rank": 6,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 641,
+      "news_item_id": 526,
+      "rank": 7,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 642,
+      "news_item_id": 527,
+      "rank": 8,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 643,
+      "news_item_id": 528,
+      "rank": 9,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 644,
+      "news_item_id": 529,
+      "rank": 10,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 645,
+      "news_item_id": 530,
+      "rank": 11,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 646,
+      "news_item_id": 531,
+      "rank": 12,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 647,
+      "news_item_id": 532,
+      "rank": 13,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 648,
+      "news_item_id": 533,
+      "rank": 14,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 649,
+      "news_item_id": 534,
+      "rank": 15,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 650,
+      "news_item_id": 535,
+      "rank": 16,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 651,
+      "news_item_id": 356,
+      "rank": 17,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 652,
+      "news_item_id": 536,
+      "rank": 18,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 653,
+      "news_item_id": 537,
+      "rank": 19,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 654,
+      "news_item_id": 538,
+      "rank": 20,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 655,
+      "news_item_id": 539,
+      "rank": 21,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 656,
+      "news_item_id": 540,
+      "rank": 22,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 657,
+      "news_item_id": 541,
+      "rank": 23,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 658,
+      "news_item_id": 542,
+      "rank": 24,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 659,
+      "news_item_id": 543,
+      "rank": 25,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 660,
+      "news_item_id": 544,
+      "rank": 26,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 661,
+      "news_item_id": 545,
+      "rank": 27,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 662,
+      "news_item_id": 546,
+      "rank": 28,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 663,
+      "news_item_id": 547,
+      "rank": 29,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 664,
+      "news_item_id": 351,
+      "rank": 30,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 665,
+      "news_item_id": 364,
+      "rank": 1,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 666,
+      "news_item_id": 548,
+      "rank": 2,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 667,
+      "news_item_id": 366,
+      "rank": 3,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 668,
+      "news_item_id": 549,
+      "rank": 4,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 669,
+      "news_item_id": 367,
+      "rank": 5,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 670,
+      "news_item_id": 550,
+      "rank": 6,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 671,
+      "news_item_id": 551,
+      "rank": 7,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 672,
+      "news_item_id": 552,
+      "rank": 8,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 673,
+      "news_item_id": 553,
+      "rank": 9,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 674,
+      "news_item_id": 554,
+      "rank": 10,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 675,
+      "news_item_id": 555,
+      "rank": 11,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 676,
+      "news_item_id": 556,
+      "rank": 12,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 677,
+      "news_item_id": 557,
+      "rank": 13,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 678,
+      "news_item_id": 558,
+      "rank": 14,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 679,
+      "news_item_id": 559,
+      "rank": 15,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 680,
+      "news_item_id": 560,
+      "rank": 16,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 681,
+      "news_item_id": 561,
+      "rank": 17,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 682,
+      "news_item_id": 562,
+      "rank": 18,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 683,
+      "news_item_id": 563,
+      "rank": 19,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 684,
+      "news_item_id": 564,
+      "rank": 20,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 685,
+      "news_item_id": 565,
+      "rank": 1,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 686,
+      "news_item_id": 566,
+      "rank": 2,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 687,
+      "news_item_id": 567,
+      "rank": 3,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 688,
+      "news_item_id": 568,
+      "rank": 4,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 689,
+      "news_item_id": 569,
+      "rank": 5,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 690,
+      "news_item_id": 570,
+      "rank": 6,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 691,
+      "news_item_id": 571,
+      "rank": 7,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 692,
+      "news_item_id": 572,
+      "rank": 8,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 693,
+      "news_item_id": 573,
+      "rank": 9,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 694,
+      "news_item_id": 574,
+      "rank": 10,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 695,
+      "news_item_id": 575,
+      "rank": 11,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 696,
+      "news_item_id": 576,
+      "rank": 12,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 697,
+      "news_item_id": 577,
+      "rank": 1,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 698,
+      "news_item_id": 578,
+      "rank": 2,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 699,
+      "news_item_id": 579,
+      "rank": 3,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 700,
+      "news_item_id": 580,
+      "rank": 4,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 701,
+      "news_item_id": 581,
+      "rank": 5,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 702,
+      "news_item_id": 582,
+      "rank": 6,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 703,
+      "news_item_id": 583,
+      "rank": 7,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 704,
+      "news_item_id": 584,
+      "rank": 8,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 705,
+      "news_item_id": 585,
+      "rank": 9,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 706,
+      "news_item_id": 586,
+      "rank": 10,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 707,
+      "news_item_id": 587,
+      "rank": 11,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 708,
+      "news_item_id": 588,
+      "rank": 12,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 709,
+      "news_item_id": 589,
+      "rank": 13,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 710,
+      "news_item_id": 590,
+      "rank": 14,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 711,
+      "news_item_id": 591,
+      "rank": 15,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 712,
+      "news_item_id": 592,
+      "rank": 16,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 713,
+      "news_item_id": 593,
+      "rank": 17,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 714,
+      "news_item_id": 594,
+      "rank": 18,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 715,
+      "news_item_id": 382,
+      "rank": 19,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 716,
+      "news_item_id": 385,
+      "rank": 20,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 717,
+      "news_item_id": 386,
+      "rank": 21,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 718,
+      "news_item_id": 394,
+      "rank": 22,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 719,
+      "news_item_id": 395,
+      "rank": 23,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 720,
+      "news_item_id": 396,
+      "rank": 24,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 721,
+      "news_item_id": 397,
+      "rank": 25,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 722,
+      "news_item_id": 398,
+      "rank": 26,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 723,
+      "news_item_id": 399,
+      "rank": 27,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 724,
+      "news_item_id": 400,
+      "rank": 28,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 725,
+      "news_item_id": 94,
+      "rank": 29,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 726,
+      "news_item_id": 97,
+      "rank": 30,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 727,
+      "news_item_id": 595,
+      "rank": 1,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 728,
+      "news_item_id": 596,
+      "rank": 2,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 729,
+      "news_item_id": 597,
+      "rank": 3,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 730,
+      "news_item_id": 598,
+      "rank": 4,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 731,
+      "news_item_id": 599,
+      "rank": 5,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 732,
+      "news_item_id": 600,
+      "rank": 6,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 733,
+      "news_item_id": 601,
+      "rank": 7,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 734,
+      "news_item_id": 602,
+      "rank": 8,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 735,
+      "news_item_id": 603,
+      "rank": 9,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 736,
+      "news_item_id": 604,
+      "rank": 10,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 737,
+      "news_item_id": 605,
+      "rank": 11,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 738,
+      "news_item_id": 606,
+      "rank": 12,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 739,
+      "news_item_id": 607,
+      "rank": 13,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 740,
+      "news_item_id": 608,
+      "rank": 14,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 741,
+      "news_item_id": 609,
+      "rank": 15,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 742,
+      "news_item_id": 610,
+      "rank": 16,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 743,
+      "news_item_id": 611,
+      "rank": 17,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 744,
+      "news_item_id": 612,
+      "rank": 18,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 745,
+      "news_item_id": 613,
+      "rank": 19,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 746,
+      "news_item_id": 614,
+      "rank": 20,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 747,
+      "news_item_id": 615,
+      "rank": 21,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 748,
+      "news_item_id": 616,
+      "rank": 22,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 749,
+      "news_item_id": 617,
+      "rank": 23,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 750,
+      "news_item_id": 618,
+      "rank": 24,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 751,
+      "news_item_id": 619,
+      "rank": 25,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 752,
+      "news_item_id": 620,
+      "rank": 26,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 753,
+      "news_item_id": 621,
+      "rank": 27,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 754,
+      "news_item_id": 401,
+      "rank": 28,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 755,
+      "news_item_id": 402,
+      "rank": 29,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 756,
+      "news_item_id": 403,
+      "rank": 30,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 757,
+      "news_item_id": 622,
+      "rank": 1,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 758,
+      "news_item_id": 623,
+      "rank": 2,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 759,
+      "news_item_id": 624,
+      "rank": 3,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 760,
+      "news_item_id": 625,
+      "rank": 4,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 761,
+      "news_item_id": 626,
+      "rank": 5,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 762,
+      "news_item_id": 627,
+      "rank": 6,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 763,
+      "news_item_id": 628,
+      "rank": 7,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 764,
+      "news_item_id": 629,
+      "rank": 8,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 765,
+      "news_item_id": 630,
+      "rank": 9,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 766,
+      "news_item_id": 631,
+      "rank": 10,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 767,
+      "news_item_id": 632,
+      "rank": 11,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 768,
+      "news_item_id": 633,
+      "rank": 12,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 769,
+      "news_item_id": 634,
+      "rank": 13,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 770,
+      "news_item_id": 635,
+      "rank": 14,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 771,
+      "news_item_id": 636,
+      "rank": 15,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 772,
+      "news_item_id": 637,
+      "rank": 16,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 773,
+      "news_item_id": 638,
+      "rank": 17,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 774,
+      "news_item_id": 639,
+      "rank": 18,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 775,
+      "news_item_id": 640,
+      "rank": 19,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 776,
+      "news_item_id": 641,
+      "rank": 20,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 777,
+      "news_item_id": 642,
+      "rank": 21,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 778,
+      "news_item_id": 643,
+      "rank": 22,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 779,
+      "news_item_id": 644,
+      "rank": 23,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 780,
+      "news_item_id": 645,
+      "rank": 24,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 781,
+      "news_item_id": 646,
+      "rank": 25,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 782,
+      "news_item_id": 647,
+      "rank": 26,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 783,
+      "news_item_id": 648,
+      "rank": 27,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 784,
+      "news_item_id": 649,
+      "rank": 28,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 785,
+      "news_item_id": 650,
+      "rank": 29,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 786,
+      "news_item_id": 651,
+      "rank": 30,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 787,
+      "news_item_id": 652,
+      "rank": 1,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 788,
+      "news_item_id": 653,
+      "rank": 2,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 789,
+      "news_item_id": 654,
+      "rank": 3,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 790,
+      "news_item_id": 655,
+      "rank": 4,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 791,
+      "news_item_id": 656,
+      "rank": 5,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 792,
+      "news_item_id": 657,
+      "rank": 6,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 793,
+      "news_item_id": 658,
+      "rank": 7,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 794,
+      "news_item_id": 659,
+      "rank": 8,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 795,
+      "news_item_id": 660,
+      "rank": 9,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 796,
+      "news_item_id": 661,
+      "rank": 10,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 797,
+      "news_item_id": 445,
+      "rank": 11,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 798,
+      "news_item_id": 662,
+      "rank": 12,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 799,
+      "news_item_id": 663,
+      "rank": 13,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 800,
+      "news_item_id": 664,
+      "rank": 14,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 801,
+      "news_item_id": 665,
+      "rank": 15,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 802,
+      "news_item_id": 443,
+      "rank": 16,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 803,
+      "news_item_id": 666,
+      "rank": 17,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 804,
+      "news_item_id": 198,
+      "rank": 18,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 805,
+      "news_item_id": 667,
+      "rank": 19,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 806,
+      "news_item_id": 668,
+      "rank": 20,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 807,
+      "news_item_id": 203,
+      "rank": 21,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 808,
+      "news_item_id": 669,
+      "rank": 22,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 809,
+      "news_item_id": 446,
+      "rank": 23,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 810,
+      "news_item_id": 670,
+      "rank": 24,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 811,
+      "news_item_id": 671,
+      "rank": 25,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 812,
+      "news_item_id": 672,
+      "rank": 26,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 813,
+      "news_item_id": 673,
+      "rank": 27,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 814,
+      "news_item_id": 674,
+      "rank": 28,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 815,
+      "news_item_id": 675,
+      "rank": 29,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 816,
+      "news_item_id": 676,
+      "rank": 30,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 817,
+      "news_item_id": 213,
+      "rank": 1,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 818,
+      "news_item_id": 677,
+      "rank": 2,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 819,
+      "news_item_id": 678,
+      "rank": 3,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 820,
+      "news_item_id": 679,
+      "rank": 4,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 821,
+      "news_item_id": 680,
+      "rank": 5,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 822,
+      "news_item_id": 681,
+      "rank": 6,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 823,
+      "news_item_id": 682,
+      "rank": 7,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 824,
+      "news_item_id": 683,
+      "rank": 8,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 825,
+      "news_item_id": 684,
+      "rank": 9,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 826,
+      "news_item_id": 685,
+      "rank": 10,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 827,
+      "news_item_id": 686,
+      "rank": 11,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 828,
+      "news_item_id": 227,
+      "rank": 12,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 829,
+      "news_item_id": 687,
+      "rank": 13,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 830,
+      "news_item_id": 461,
+      "rank": 14,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 831,
+      "news_item_id": 467,
+      "rank": 15,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 832,
+      "news_item_id": 688,
+      "rank": 16,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 833,
+      "news_item_id": 689,
+      "rank": 17,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 834,
+      "news_item_id": 215,
+      "rank": 18,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 835,
+      "news_item_id": 466,
+      "rank": 19,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 836,
+      "news_item_id": 219,
+      "rank": 20,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 837,
+      "news_item_id": 690,
+      "rank": 21,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 838,
+      "news_item_id": 691,
+      "rank": 22,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 839,
+      "news_item_id": 692,
+      "rank": 23,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 840,
+      "news_item_id": 693,
+      "rank": 24,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 841,
+      "news_item_id": 222,
+      "rank": 25,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 842,
+      "news_item_id": 694,
+      "rank": 26,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 843,
+      "news_item_id": 695,
+      "rank": 27,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 844,
+      "news_item_id": 456,
+      "rank": 28,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 845,
+      "news_item_id": 696,
+      "rank": 29,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 846,
+      "news_item_id": 242,
+      "rank": 30,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 847,
+      "news_item_id": 697,
+      "rank": 1,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 848,
+      "news_item_id": 483,
+      "rank": 2,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 849,
+      "news_item_id": 698,
+      "rank": 3,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 850,
+      "news_item_id": 699,
+      "rank": 4,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 851,
+      "news_item_id": 700,
+      "rank": 5,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 852,
+      "news_item_id": 701,
+      "rank": 6,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 853,
+      "news_item_id": 702,
+      "rank": 7,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 854,
+      "news_item_id": 703,
+      "rank": 8,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 855,
+      "news_item_id": 704,
+      "rank": 9,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 856,
+      "news_item_id": 484,
+      "rank": 10,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 857,
+      "news_item_id": 705,
+      "rank": 11,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 858,
+      "news_item_id": 706,
+      "rank": 12,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 859,
+      "news_item_id": 707,
+      "rank": 13,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 860,
+      "news_item_id": 708,
+      "rank": 14,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 861,
+      "news_item_id": 709,
+      "rank": 15,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 862,
+      "news_item_id": 710,
+      "rank": 16,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 863,
+      "news_item_id": 711,
+      "rank": 17,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 864,
+      "news_item_id": 712,
+      "rank": 18,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 865,
+      "news_item_id": 713,
+      "rank": 19,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 866,
+      "news_item_id": 714,
+      "rank": 20,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 867,
+      "news_item_id": 715,
+      "rank": 1,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 868,
+      "news_item_id": 487,
+      "rank": 2,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 869,
+      "news_item_id": 716,
+      "rank": 3,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 870,
+      "news_item_id": 264,
+      "rank": 4,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 871,
+      "news_item_id": 717,
+      "rank": 5,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 872,
+      "news_item_id": 488,
+      "rank": 6,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 873,
+      "news_item_id": 718,
+      "rank": 7,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 874,
+      "news_item_id": 489,
+      "rank": 8,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 875,
+      "news_item_id": 490,
+      "rank": 9,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 876,
+      "news_item_id": 263,
+      "rank": 10,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 877,
+      "news_item_id": 719,
+      "rank": 11,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 878,
+      "news_item_id": 720,
+      "rank": 12,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 879,
+      "news_item_id": 265,
+      "rank": 13,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 880,
+      "news_item_id": 266,
+      "rank": 14,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 881,
+      "news_item_id": 267,
+      "rank": 15,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 882,
+      "news_item_id": 268,
+      "rank": 16,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 883,
+      "news_item_id": 269,
+      "rank": 17,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 884,
+      "news_item_id": 270,
+      "rank": 18,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 885,
+      "news_item_id": 271,
+      "rank": 19,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 886,
+      "news_item_id": 272,
+      "rank": 20,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 887,
+      "news_item_id": 273,
+      "rank": 21,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 888,
+      "news_item_id": 274,
+      "rank": 22,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 889,
+      "news_item_id": 275,
+      "rank": 23,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 890,
+      "news_item_id": 276,
+      "rank": 24,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 891,
+      "news_item_id": 277,
+      "rank": 25,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 892,
+      "news_item_id": 278,
+      "rank": 26,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 893,
+      "news_item_id": 279,
+      "rank": 27,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 894,
+      "news_item_id": 280,
+      "rank": 28,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 895,
+      "news_item_id": 281,
+      "rank": 29,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 896,
+      "news_item_id": 282,
+      "rank": 30,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 897,
+      "news_item_id": 293,
+      "rank": 1,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 898,
+      "news_item_id": 301,
+      "rank": 2,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 899,
+      "news_item_id": 294,
+      "rank": 3,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 900,
+      "news_item_id": 295,
+      "rank": 4,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 901,
+      "news_item_id": 296,
+      "rank": 5,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 902,
+      "news_item_id": 297,
+      "rank": 6,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 903,
+      "news_item_id": 298,
+      "rank": 7,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 904,
+      "news_item_id": 299,
+      "rank": 8,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 905,
+      "news_item_id": 300,
+      "rank": 9,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
+    },
+    {
+      "id": 906,
+      "news_item_id": 302,
+      "rank": 10,
+      "crawl_time": "22-48",
+      "created_at": "2026-11-17 22:48:48"
     }
   ],
   "crawl_records": [
@@ -10721,6 +15825,12 @@
       "crawl_time": "12-43",
       "total_items": 302,
       "created_at": "2026-11-17 12:43:25"
+    },
+    {
+      "id": 3,
+      "crawl_time": "22-48",
+      "total_items": 302,
+      "created_at": "2026-11-17 22:48:48"
     }
   ],
   "crawl_source_status": [
@@ -10841,6 +15951,66 @@
     },
     {
       "crawl_record_id": 2,
+      "platform_id": "chongbuluo",
+      "status": "success"
+    },
+    {
+      "crawl_record_id": 3,
+      "platform_id": "toutiao",
+      "status": "success"
+    },
+    {
+      "crawl_record_id": 3,
+      "platform_id": "baidu",
+      "status": "success"
+    },
+    {
+      "crawl_record_id": 3,
+      "platform_id": "thepaper",
+      "status": "success"
+    },
+    {
+      "crawl_record_id": 3,
+      "platform_id": "ifeng",
+      "status": "success"
+    },
+    {
+      "crawl_record_id": 3,
+      "platform_id": "zaobao",
+      "status": "success"
+    },
+    {
+      "crawl_record_id": 3,
+      "platform_id": "cankaoxiaoxi",
+      "status": "success"
+    },
+    {
+      "crawl_record_id": 3,
+      "platform_id": "weibo",
+      "status": "success"
+    },
+    {
+      "crawl_record_id": 3,
+      "platform_id": "douyin",
+      "status": "success"
+    },
+    {
+      "crawl_record_id": 3,
+      "platform_id": "bilibili-hot-search",
+      "status": "success"
+    },
+    {
+      "crawl_record_id": 3,
+      "platform_id": "zhihu",
+      "status": "success"
+    },
+    {
+      "crawl_record_id": 3,
+      "platform_id": "tieba",
+      "status": "success"
+    },
+    {
+      "crawl_record_id": 3,
       "platform_id": "chongbuluo",
       "status": "success"
     }
